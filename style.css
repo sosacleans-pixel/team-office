@@ -1,0 +1,62 @@
+:root{--bg:#eef0f4;--ink:#1d2433;--mute:#667085;--wall:#3a4252;--card:#fff;--green:#1f9d55;--gray:#8a94a6;--red:#d64545;--amber:#e3a008;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink)}
+.top{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:space-between;padding:1.2rem 1.5rem;background:linear-gradient(120deg,#1d2433,#2f3a55);color:#fff}
+h1{margin:0;font-size:1.6rem;letter-spacing:.3px}h1 span{color:#f2c94c}
+.updated{margin:.25rem 0 0;color:#c8d0e0;font-size:.9rem}
+.summary{display:flex;flex-wrap:wrap;gap:.5rem}
+.sum{background:rgba(255,255,255,.1);border-radius:10px;padding:.4rem .7rem;font-size:.85rem;display:flex;align-items:center;gap:.4rem}
+.sum b{font-size:1.1rem}
+.dot{width:.6rem;height:.6rem;border-radius:50%;display:inline-block}
+.filters{display:flex;flex-wrap:wrap;gap:.6rem 1.5rem;padding:.8rem 1.5rem}
+.chips{display:flex;flex-wrap:wrap;gap:.4rem}
+.chip{border:1px solid #cdd3de;background:#fff;border-radius:999px;padding:.3rem .75rem;font-size:.8rem;cursor:pointer;color:var(--ink)}
+.chip[aria-pressed=true]{background:var(--ink);color:#fff;border-color:var(--ink)}
+.chip:focus-visible,.desk:focus-visible,.close:focus-visible{outline:3px solid #4c8dff;outline-offset:2px}
+main{padding:0 1.5rem 1.5rem}
+.floor{display:grid;gap:10px;padding:10px;background:var(--wall);border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,.25);
+grid-template-columns:repeat(4,minmax(0,1fr));grid-template-areas:"money legal online email" "sosa alfred alfred email" "coach travel publishing it"}
+.room{position:relative;border-radius:6px;padding:2.1rem .8rem .8rem;min-height:190px;background-color:#f6f3ec;
+background-image:linear-gradient(var(--floor),var(--floor)),linear-gradient(rgba(0,0,0,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(0,0,0,.05) 1px,transparent 1px);background-size:auto,24px 24px,24px 24px}
+.room::after{content:"";position:absolute;bottom:-10px;left:50%;width:50px;height:10px;transform:translateX(-50%);background:#f6f3ec;border-left:3px solid #c9b48f;border-right:3px solid #c9b48f}
+.room h2{position:absolute;top:.5rem;left:.7rem;margin:0;font-size:.72rem;letter-spacing:1.4px;text-transform:uppercase;background:var(--c);color:#fff;padding:.2rem .55rem;border-radius:4px}
+.room .plant{position:absolute;top:.4rem;right:.6rem;font-size:1rem;opacity:.85}
+.room.alfred{background-color:#f3ead2;background-image:radial-gradient(ellipse at 50% 55%,rgba(201,162,39,.28) 0 38%,transparent 39%),linear-gradient(var(--floor),var(--floor));display:flex;flex-direction:column;justify-content:center;align-items:center}
+.room.alfred .desks{max-width:380px;width:100%;grid-template-columns:1fr}.room.alfred .desk{padding:1rem;border-top-width:10px}.room.alfred .monitor img{width:64px;height:64px}.room.alfred .dname{font-size:1.1rem}.room.alfred .drole{-webkit-line-clamp:3;font-size:.8rem}
+.desks{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:.7rem}
+.desk{all:unset;box-sizing:border-box;cursor:pointer;display:flex;flex-direction:column;gap:.35rem;background:var(--card);border-radius:10px;padding:.65rem;border-top:6px solid #a77b52;box-shadow:0 3px 0 #d9cbb8,0 6px 14px rgba(0,0,0,.12);transition:transform .2s,box-shadow .2s;position:relative}
+.desk:hover{transform:translateY(-4px);box-shadow:0 3px 0 #d9cbb8,0 12px 22px rgba(0,0,0,.18)}
+.desk.dim{opacity:.25}
+.drow{display:flex;gap:.55rem;align-items:center}
+.monitor{position:relative;flex:none}
+.monitor img{width:44px;height:44px;border-radius:50%;object-fit:cover;display:block;border:2px solid #fff;box-shadow:0 0 0 2px var(--c)}
+.working .monitor img{animation:glow 2.6s ease-in-out infinite}
+@keyframes glow{50%{box-shadow:0 0 0 2px var(--green),0 0 14px 4px rgba(31,157,85,.55)}}
+.dname{font-weight:700;font-size:.88rem;line-height:1.15}
+.drole{font-size:.72rem;color:var(--mute);line-height:1.2;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.dtask{font-size:.75rem;color:#344054;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pills{display:flex;flex-wrap:wrap;gap:.3rem;align-items:center}
+.pill{font-size:.66rem;font-weight:700;padding:.15rem .5rem;border-radius:999px;color:#fff;text-transform:uppercase;letter-spacing:.4px}
+.s-working{background:var(--green)}.s-idle{background:var(--gray)}.s-blocked{background:var(--red)}.s-waiting_on_salim{background:var(--amber);color:#3d2a00}
+.need{background:#fff4d6;color:#8a5a00;border:1px solid var(--amber);animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{50%{box-shadow:0 0 0 5px rgba(227,160,8,.25)}}
+.typing{display:inline-flex;gap:3px;margin-left:auto}
+.typing i{width:5px;height:5px;border-radius:50%;background:var(--green);animation:bounce 1.2s infinite}
+.typing i:nth-child(2){animation-delay:.15s}.typing i:nth-child(3){animation-delay:.3s}
+@keyframes bounce{0%,60%,100%{transform:none}30%{transform:translateY(-4px)}}
+.also{font-size:.72rem;color:var(--mute);font-style:italic;background:rgba(255,255,255,.7);border-radius:8px;padding:.4rem .6rem;margin-top:.6rem}
+.scrim{position:fixed;inset:0;background:rgba(15,20,30,.45);z-index:9}
+.panel{position:fixed;top:0;right:0;height:100%;width:min(440px,100%);background:#fff;z-index:10;overflow:auto;padding:1.4rem;box-shadow:-10px 0 30px rgba(0,0,0,.2);animation:slide .25s ease-out}
+@keyframes slide{from{transform:translateX(100%)}}
+.close{position:absolute;top:.7rem;right:.8rem;font-size:1.6rem;border:0;background:none;cursor:pointer;line-height:1;color:var(--ink)}
+.phead{display:flex;gap:.9rem;align-items:center}.phead img{border-radius:50%;object-fit:cover}
+.phead h2{margin:0;font-size:1.25rem}.prole{margin:.15rem 0;color:var(--mute);font-size:.85rem}
+.ptask{background:#f4f6fa;border-radius:8px;padding:.6rem .8rem;font-size:.9rem}
+.panel h3{font-size:.8rem;text-transform:uppercase;letter-spacing:1px;margin:1.2rem 0 .4rem;display:flex;gap:.4rem;align-items:center}
+.panel ul{margin:0;padding-left:1.1rem;font-size:.9rem;line-height:1.45}
+.empty{color:var(--mute);font-size:.85rem;font-style:italic;margin:0}
+.error{background:#fde8e8;color:#8a1c1c;padding:.8rem 1rem;border-radius:8px;margin-bottom:1rem}
+.foot{text-align:center;color:var(--mute);font-size:.75rem;padding:0 0 1.5rem}
+@media (max-width:1100px){.floor{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-areas:"alfred alfred" "money legal" "sosa coach" "online online" "email email" "travel publishing" "it it"}}
+@media (max-width:640px){.desks{grid-template-columns:1fr}.floor{display:flex;flex-direction:column;background:none;box-shadow:none;padding:0;gap:1rem}.room{border-radius:12px;min-height:0;box-shadow:0 4px 14px rgba(0,0,0,.1)}.room::after{display:none}.top,.filters{padding-left:1rem;padding-right:1rem}main{padding:0 1rem 1rem}h1{font-size:1.3rem}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}

@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-10-10T13:45:00-06:00",
+  "updatedBy": "Web Manager",
+  "departments": [
+    {
+      "id": "alfred",
+      "name": "Chief of Staff",
+      "color": "#c9a227"
+    },
+    {
+      "id": "money",
+      "name": "Money",
+      "color": "#2e9d6a"
+    },
+    {
+      "id": "legal",
+      "name": "Legal",
+      "color": "#5b5fc7"
+    },
+    {
+      "id": "sosa",
+      "name": "Sosa Cleans",
+      "color": "#1f8fd1"
+    },
+    {
+      "id": "coach",
+      "name": "Coach & Santosh",
+      "color": "#e46b3c"
+    },
+    {
+      "id": "online",
+      "name": "Online",
+      "color": "#b04ad6"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "color": "#d6455d"
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "color": "#17a3a3"
+    },
+    {
+      "id": "publishing",
+      "name": "Publishing",
+      "color": "#8a6d3b"
+    },
+    {
+      "id": "it",
+      "name": "IT",
+      "color": "#5f6b7a"
+    }
+  ],
+  "bots": [
+    {
+      "id": "alfred",
+      "name": "Alfred",
+      "role": "Chief of staff (also called Jaime): priorities, handoffs and team coordination",
+      "department": "alfred",
+      "avatar": "img/avatars/alfred.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "financial-adviser",
+      "name": "Financial Adviser",
+      "role": "Budgets, cash flow and money planning",
+      "department": "money",
+      "avatar": "img/avatars/financial-adviser.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "credit-repair",
+      "name": "Credit Repair",
+      "role": "Credit file work and timelines",
+      "department": "money",
+      "avatar": "img/avatars/credit-repair.svg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "attorney",
+      "name": "Attorney",
+      "role": "Protective counsel: legal risk and contract review framing",
+      "department": "legal",
+      "avatar": "img/avatars/attorney.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "sosa-cleans-manager",
+      "name": "Sosa Cleans Manager",
+      "role": "Operations owner for the cleaning company",
+      "department": "sosa",
+      "avatar": "img/avatars/sosa-cleans-manager.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "coach-salim-hq",
+      "name": "Coach Salim HQ",
+      "role": "Coaching business growth and operations",
+      "department": "coach",
+      "avatar": "img/avatars/coach-salim-hq.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "coach-fit",
+      "name": "Coach Fit",
+      "role": "Coaching knowledge, certifications and programming",
+      "department": "coach",
+      "avatar": "img/avatars/coach-fit.svg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "digital-pr",
+      "name": "Digital PR",
+      "role": "Online reputation and brand presence",
+      "department": "online",
+      "avatar": "img/avatars/digital-pr.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "web-manager",
+      "name": "Web Manager",
+      "role": "Website developer and optimizer",
+      "department": "online",
+      "avatar": "img/avatars/web-manager.jpg",
+      "status": "waiting_on_salim",
+      "currentTask": "Santosh Retreats v3 design polish + new Coach Salim site draft",
+      "needsSalim": true,
+      "done": [
+        "sosacleans.com launched on GitHub Pages",
+        "Santosh Retreats site drafts v1–v3 live as previews",
+        "Base44 account inventory completed",
+        "Removed an outside user from the EvolveWell workspace"
+      ],
+      "inProgress": [
+        "Santosh Retreats v3 design polish",
+        "New Coach Salim site draft at a preview link"
+      ],
+      "blocked": [],
+      "needsSalimItems": [
+        "Coach site content: hero photo, program names, checkout links, Instagram handle and review text",
+        "Utah retreat details for the Santosh Retreats site"
+      ]
+    },
+    {
+      "id": "social-media-manager",
+      "name": "Social Media Manager",
+      "role": "Social channels and content",
+      "department": "online",
+      "avatar": "img/avatars/social-media-manager.svg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "el-cartero",
+      "name": "El Cartero",
+      "role": "Email manager: inbox rollups and digests",
+      "department": "email",
+      "avatar": "img/avatars/el-cartero.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "sosa-cleans-inbox",
+      "name": "Sosa Cleans Inbox",
+      "role": "Triages and drafts for the Sosa Cleans inbox",
+      "department": "email",
+      "avatar": "img/avatars/sosa-cleans-inbox.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": [],
+      "alsoIn": [
+        "sosa"
+      ]
+    },
+    {
+      "id": "coach-salim-inbox",
+      "name": "Coach Salim Inbox",
+      "role": "Triages and drafts for the coaching inbox",
+      "department": "email",
+      "avatar": "img/avatars/coach-salim-inbox.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "santosh-retreats-inbox",
+      "name": "Santosh Retreats Inbox",
+      "role": "Triages and drafts for the retreats inbox",
+      "department": "email",
+      "avatar": "img/avatars/santosh-retreats-inbox.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "sr-heyaime-s-mailroom",
+      "name": "Sr. Heyaime's Mailroom",
+      "role": "Triages and drafts for a personal inbox",
+      "department": "email",
+      "avatar": "img/avatars/sr-heyaime-s-mailroom.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "don-salim-s-mailroom",
+      "name": "Don Salim's Mailroom",
+      "role": "Triages and drafts for Salim's personal inbox",
+      "department": "email",
+      "avatar": "img/avatars/don-salim-s-mailroom.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "travel-agent-smith",
+      "name": "Travel Agent Smith",
+      "role": "Trips, travel documents and appointments watch",
+      "department": "travel",
+      "avatar": "img/avatars/travel-agent-smith.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "book-publisher",
+      "name": "Book Publisher",
+      "role": "Book structure, packaging and publishing",
+      "department": "publishing",
+      "avatar": "img/avatars/book-publisher.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    },
+    {
+      "id": "it-department",
+      "name": "IT Department",
+      "role": "In-house tech support desk",
+      "department": "it",
+      "avatar": "img/avatars/it-department.jpg",
+      "status": "idle",
+      "currentTask": "Awaiting first status update from Alfred",
+      "needsSalim": false,
+      "done": [],
+      "inProgress": [],
+      "blocked": [],
+      "needsSalimItems": []
+    }
+  ]
+}
