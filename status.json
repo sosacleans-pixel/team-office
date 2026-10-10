@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-10T13:42:03-06:00",
+  "lastUpdated": "2026-10-10T13:46:51-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -81,19 +81,18 @@
       "department": "money",
       "avatar": "img/avatars/financial-adviser.jpg",
       "status": "working",
-      "currentTask": "Nov 1 money system launch",
+      "currentTask": "Nov 1 launch plan and weekly check-ins",
       "needsSalim": true,
       "done": [
-        "Money plan v2",
         "Nov 1 launch plan",
-        "Internet service cancelled with reminders"
+        "Insurance dispute sent",
+        "Weekly Friday check-in live"
       ],
-      "inProgress": [
-        "October prep checklist"
-      ],
+      "inProgress": [],
       "blocked": [],
       "needsSalimItems": [
-        "Move remaining subscriptions off the old card"
+        "Add a card to the registrar",
+        "Move Venmo off the Sosa account"
       ]
     },
     {
@@ -103,14 +102,18 @@
       "department": "money",
       "avatar": "img/avatars/credit-repair.svg",
       "status": "working",
-      "currentTask": "Drafting debt validation letters",
-      "needsSalim": false,
+      "currentTask": "Validation letter drafts",
+      "needsSalim": true,
       "done": [],
       "inProgress": [
-        "Validation letter drafts"
+        "Two validation letter drafts"
       ],
-      "blocked": [],
-      "needsSalimItems": []
+      "blocked": [
+        "One bureau failed online ID verification"
+      ],
+      "needsSalimItems": [
+        "Review the letters when ready"
+      ]
     },
     {
       "id": "attorney",
@@ -119,10 +122,13 @@
       "department": "legal",
       "avatar": "img/avatars/attorney.jpg",
       "status": "idle",
-      "currentTask": "Waiting until after the Tax Commission visit for the Sosa reinstatement",
+      "currentTask": "Return-confirmation follow-up",
       "needsSalim": false,
       "done": [],
-      "inProgress": [],
+      "inProgress": [
+        "Return-confirmation follow-up",
+        "Sosa address change queued after reinstatement"
+      ],
       "blocked": [],
       "needsSalimItems": []
     },
@@ -133,15 +139,17 @@
       "department": "sosa",
       "avatar": "img/avatars/sosa-cleans-manager.jpg",
       "status": "idle",
-      "currentTask": "On hold until the Oct 16 Tax Commission visit",
-      "needsSalim": false,
+      "currentTask": "Oct 16 visit checklist",
+      "needsSalim": true,
       "done": [],
       "inProgress": [
-        "Visit checklist",
-        "Invoice reminder set for Oct 26"
+        "Oct 16 visit checklist"
       ],
       "blocked": [],
-      "needsSalimItems": []
+      "needsSalimItems": [
+        "Oct 16 visit",
+        "Upload franchise documents"
+      ]
     },
     {
       "id": "coach-salim-hq",
@@ -150,15 +158,15 @@
       "department": "coach",
       "avatar": "img/avatars/coach-salim-hq.jpg",
       "status": "working",
-      "currentTask": "Watching for the trainer directory removal and tracking subscriptions",
+      "currentTask": "Trainer-directory removal watch",
       "needsSalim": false,
-      "done": [
-        "Trainerize schedule pulled",
-        "A client session rescheduled",
-        "Payouts moved to the business account"
+      "done": [],
+      "inProgress": [
+        "Trainer-directory removal watch"
       ],
-      "inProgress": [],
-      "blocked": [],
+      "blocked": [
+        "Subscription moves wait on the new debit card"
+      ],
       "needsSalimItems": []
     },
     {
@@ -181,16 +189,20 @@
       "role": "Online reputation and brand presence",
       "department": "online",
       "avatar": "img/avatars/digital-pr.jpg",
-      "status": "idle",
-      "currentTask": "Sosa listing cleanup on hold until after Oct 16",
-      "needsSalim": false,
-      "done": [
-        "sosacleans.com ranks #1 for 'Sosa Cleans'",
-        "Coach Google audit"
+      "status": "working",
+      "currentTask": "Listing replies",
+      "needsSalim": true,
+      "done": [],
+      "inProgress": [
+        "Listing replies"
       ],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
+      "blocked": [
+        "Sosa listing cleanup on hold until after Oct 16"
+      ],
+      "needsSalimItems": [
+        "Test email forwarding",
+        "Change one password"
+      ]
     },
     {
       "id": "web-manager",
@@ -198,26 +210,21 @@
       "role": "Website developer and optimizer",
       "department": "online",
       "avatar": "img/avatars/web-manager.jpg",
-      "status": "waiting_on_salim",
-      "currentTask": "Santosh Retreats v3 design polish + new Coach Salim site draft",
+      "status": "working",
+      "currentTask": "Coach site and retreat follow-ups",
       "needsSalim": true,
       "done": [
-        "sosacleans.com launched on GitHub Pages",
-        "Santosh Retreats site drafts v1\u2013v3 live as previews",
-        "Santosh v2 and v3 previews",
+        "Base44 cleanup",
+        "Santosh v3",
         "Coach site draft",
-        "Virtual Office",
-        "Base44 account inventory completed",
-        "Removed an outside user from the EvolveWell workspace"
+        "Virtual Office"
       ],
-      "inProgress": [
-        "Santosh Retreats v3 design polish",
-        "New Coach Salim site draft at a preview link"
-      ],
+      "inProgress": [],
       "blocked": [],
       "needsSalimItems": [
-        "Answer the Coach site questions",
-        "Confirm Santosh details"
+        "Coach site answers",
+        "Utah retreat details",
+        "Photo pick"
       ]
     },
     {
@@ -227,12 +234,19 @@
       "department": "online",
       "avatar": "img/avatars/social-media-manager.svg",
       "status": "idle",
-      "currentTask": "Video inspiration saved",
-      "needsSalim": false,
-      "done": [],
+      "currentTask": "Waiting on account and photo confirmations",
+      "needsSalim": true,
+      "done": [
+        "Profile plan",
+        "4-week calendar"
+      ],
       "inProgress": [],
       "blocked": [],
-      "needsSalimItems": []
+      "needsSalimItems": [
+        "Confirm accounts",
+        "Send photos",
+        "Review posts"
+      ]
     },
     {
       "id": "el-cartero",
@@ -240,13 +254,18 @@
       "role": "Email manager: inbox rollups and digests",
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
-      "status": "idle",
-      "currentTask": "Monitoring",
-      "needsSalim": false,
+      "status": "working",
+      "currentTask": "Watching pay ticket, dispute, and statement replies",
+      "needsSalim": true,
       "done": [],
-      "inProgress": [],
+      "inProgress": [
+        "Watching pay ticket, dispute, and statement replies"
+      ],
       "blocked": [],
-      "needsSalimItems": []
+      "needsSalimItems": [
+        "Confirm a card fraud check",
+        "Confirm a new login alert"
+      ]
     },
     {
       "id": "sosa-cleans-inbox",
@@ -328,12 +347,18 @@
       "department": "travel",
       "avatar": "img/avatars/travel-agent-smith.jpg",
       "status": "idle",
-      "currentTask": "Watching for HYROX restocks",
-      "needsSalim": false,
-      "done": [],
+      "currentTask": "HYROX race sold out; waiting on a ticket",
+      "needsSalim": true,
+      "done": [
+        "HYROX trip priced"
+      ],
       "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
+      "blocked": [
+        "Race sold out"
+      ],
+      "needsSalimItems": [
+        "Get a race ticket"
+      ]
     },
     {
       "id": "book-publisher",
@@ -342,12 +367,23 @@
       "department": "publishing",
       "avatar": "img/avatars/book-publisher.jpg",
       "status": "working",
-      "currentTask": "Manuscript readiness review for 'A Challenge to Move'",
-      "needsSalim": false,
-      "done": [],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
+      "currentTask": "KDP interior and cover setup",
+      "needsSalim": true,
+      "done": [
+        "Full manuscript review",
+        "Corrected manuscript"
+      ],
+      "inProgress": [
+        "KDP interior and cover setup"
+      ],
+      "blocked": [
+        "QR code waits on the workout video"
+      ],
+      "needsSalimItems": [
+        "Approve replacement quotes",
+        "Approve back-page content",
+        "Choose ISBN option"
+      ]
     },
     {
       "id": "it-department",
@@ -355,17 +391,21 @@
       "role": "In-house tech support desk",
       "department": "it",
       "avatar": "img/avatars/it-department.jpg",
-      "status": "working",
-      "currentTask": "IT support and domain follow-up",
+      "status": "idle",
+      "currentTask": "Waiting on domain transfer recipient",
       "needsSalim": true,
       "done": [
-        "Security review (low risk)",
-        "Renewal reminder set"
+        "Laptop fixes and cleanup",
+        "Domain auto-renew turned off",
+        "Security review"
       ],
       "inProgress": [],
-      "blocked": [],
+      "blocked": [
+        "Domain transfer needs the recipient username"
+      ],
       "needsSalimItems": [
-        "Who receives the spare domain transfer"
+        "Confirm Google security events",
+        "Add a card to the domain registrar"
       ]
     }
   ]
