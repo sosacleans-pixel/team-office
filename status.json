@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-12T03:49:05-06:00",
+  "lastUpdated": "2026-10-12T05:46:55-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,19 +62,19 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "Morning briefing and team check-in",
+      "currentTask": "Hourly team check-in",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
-        "Overnight inbox sweep"
+        "Overnight inbox sweep",
+        "Morning briefing sent",
+        "KDP ISBN fix file ready notice sent"
       ],
-      "inProgress": [
-        "Morning briefing"
-      ],
+      "inProgress": [],
       "blocked": [],
       "needsSalimItems": [
         "Send Beeline hours by 3 PM",
-        "Fix KDP interior ISBN match",
+        "Upload corrected ISBN manuscript to KDP",
         "Mail four certified credit letters"
       ]
     },
@@ -125,13 +125,14 @@
       "role": "Protective counsel: legal risk and contract review framing",
       "department": "legal",
       "avatar": "img/avatars/attorney.jpg",
-      "status": "working",
-      "currentTask": "Wellness provider incentives memo",
+      "status": "idle",
+      "currentTask": "Wellness incentives memo delivered",
       "needsSalim": false,
-      "done": [],
-      "inProgress": [
-        "Company wellness incentives memo"
+      "done": [
+        "Company wellness incentives memo",
+        "Compliance and tax benefits site copy"
       ],
+      "inProgress": [],
       "blocked": [],
       "needsSalimItems": []
     },
@@ -178,13 +179,14 @@
       "role": "Coaching knowledge, certifications and programming",
       "department": "coach",
       "avatar": "img/avatars/coach-fit.svg",
-      "status": "working",
-      "currentTask": "In-app challenge program library",
+      "status": "idle",
+      "currentTask": "Challenge library renamed",
       "needsSalim": false,
-      "done": [],
-      "inProgress": [
-        "Challenge program library"
+      "done": [
+        "Renamed A Challenge to Move 22, Dual Build 8, Calm Current 30",
+        "ACTM 22 restart-at-Day-1 rule; no reader-app link in BUF"
       ],
+      "inProgress": [],
       "blocked": [],
       "needsSalimItems": []
     },
@@ -215,13 +217,14 @@
       "department": "online",
       "avatar": "img/avatars/web-manager.jpg",
       "status": "working",
-      "currentTask": "Sites live; analytics and Resend follow-through",
+      "currentTask": "Sites live; analytics wiring",
       "needsSalim": false,
       "done": [
         "Coach site live",
         "Book app live",
         "Santosh v3 live",
-        "Resend DNS verified"
+        "Resend DNS verified",
+        "BUF original badge restored"
       ],
       "inProgress": [
         "Analytics wiring across sites"
@@ -235,17 +238,15 @@
       "role": "Social channels and content",
       "department": "online",
       "avatar": "img/avatars/social-media-manager.svg",
-      "status": "working",
-      "currentTask": "LinkedIn Experience and profile cleanup",
+      "status": "idle",
+      "currentTask": "LinkedIn Experience set for Tuesday",
       "needsSalim": false,
       "done": [
         "Instagram plan approved",
-        "LinkedIn password reset overnight"
+        "LinkedIn password reset overnight",
+        "Facebook cover-photo post hidden"
       ],
-      "inProgress": [
-        "Add LinkedIn Experience entries",
-        "Remove Facebook cover post"
-      ],
+      "inProgress": [],
       "blocked": [],
       "needsSalimItems": []
     },
@@ -256,10 +257,11 @@
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
       "status": "working",
-      "currentTask": "Overnight inbox sweep complete",
+      "currentTask": "Watching pay and insurance threads",
       "needsSalim": false,
       "done": [
-        "Flagged KDP publish and ISBN emails"
+        "Flagged KDP publish and ISBN emails",
+        "Confirmed Truemed inquiry sent"
       ],
       "inProgress": [
         "Watching pay and insurance threads"
@@ -367,21 +369,17 @@
       "department": "publishing",
       "avatar": "img/avatars/book-publisher.jpg",
       "status": "waiting_on_salim",
-      "currentTask": "KDP ISBN match fix after overnight publish",
+      "currentTask": "Corrected ISBN manuscript ready for KDP re-upload",
       "needsSalim": true,
       "done": [
-        "Manuscript and cover files ready",
-        "Paperback publish attempt overnight"
+        "Paperback published on KDP 10/11 9:42 PM",
+        "Corrected manuscript with KDP ISBN 979-8-16-163408-0 ready (80 pages)",
+        "Cover confirmed fine (no printed ISBN or barcode)"
       ],
-      "inProgress": [
-        "Align manuscript ISBN with KDP setup"
-      ],
-      "blocked": [
-        "KDP flagged an interior ISBN mismatch"
-      ],
+      "inProgress": [],
+      "blocked": [],
       "needsSalimItems": [
-        "Confirm which ISBN to use on KDP",
-        "Re-upload matching interior"
+        "Upload ACTM_MANUSCRIPT_FINAL_ISBN-9798161634080.pdf to KDP as the replacement manuscript (keep ACTM_COVER_FINAL_10-11.pdf)"
       ]
     },
     {
