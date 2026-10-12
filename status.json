@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-12T11:55:00-06:00",
+  "lastUpdated": "2026-10-12T13:57:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "Hourly team check-in (11:54 AM run)",
+      "currentTask": "Hourly team check-in (1:53 PM run)",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -75,7 +75,9 @@
         "ElevenLabs clone path set with Web Manager",
         "TYR return label fee waived (refund pending)",
         "FitnessTrainer.com account deletion confirmed",
-        "Beeline Oct 5\u201311 hours approved by Yineska"
+        "Beeline Oct 5\u201311 hours approved by Yineska",
+        "Edwards HR background-report request flagged",
+        "USAT coach insurance answers received and flagged"
       ],
       "inProgress": [
         "Monday priority stack running"
@@ -85,7 +87,8 @@
         "Upload corrected ISBN manuscript to KDP",
         "ElevenLabs Starter signup + Coach Salim voice clone (then send Voice ID securely to Web Manager)",
         "Mail four certified credit letters",
-        "Read MBO reply (ticket #853458); Edwards BGC report received, clearance email pending"
+        "Reply to Edwards HR (Denisse Guill\u00e9n): verify Sosa Cleaning + Coach Salim Heyaime dates/position with redacted business docs",
+        "Decide on separate personal-trainer liability insurance before in-person sessions (USAT policy covers triathlon disciplines only, individual only)"
       ]
     },
     {
@@ -174,15 +177,18 @@
       "avatar": "img/avatars/coach-salim-hq.jpg",
       "status": "working",
       "currentTask": "Truemed eligibility follow-up",
-      "needsSalim": false,
+      "needsSalim": true,
       "done": [
-        "Truemed NASM eligibility email sent"
+        "Truemed NASM eligibility email sent",
+        "USAT/Fairly Group coverage answers received (GL only, $1M/$2M, triathlon disciplines, individual only)"
       ],
       "inProgress": [
         "Waiting on Truemed reply"
       ],
       "blocked": [],
-      "needsSalimItems": []
+      "needsSalimItems": [
+        "Choose personal-trainer liability insurance for in-person training"
+      ]
     },
     {
       "id": "coach-fit",
