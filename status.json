@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-12T11:08:00-06:00",
+  "lastUpdated": "2026-10-12T11:55:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "Hourly team check-in (11:04 AM run)",
+      "currentTask": "Hourly team check-in (11:54 AM run)",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -74,14 +74,14 @@
         "Reader-app push-ups voice fix coordinated",
         "ElevenLabs clone path set with Web Manager",
         "TYR return label fee waived (refund pending)",
-        "FitnessTrainer.com account deletion confirmed"
+        "FitnessTrainer.com account deletion confirmed",
+        "Beeline Oct 5\u201311 hours approved by Yineska"
       ],
       "inProgress": [
         "Monday priority stack running"
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Send Beeline hours by 3 PM (week ending 10/04 pays Friday)",
         "Upload corrected ISBN manuscript to KDP",
         "ElevenLabs Starter signup + Coach Salim voice clone (then send Voice ID securely to Web Manager)",
         "Mail four certified credit letters",
@@ -95,19 +95,19 @@
       "department": "money",
       "avatar": "img/avatars/financial-adviser.jpg",
       "status": "working",
-      "currentTask": "Week cash plan; Progressive still open",
+      "currentTask": "Progressive still open; Beeline cleared",
       "needsSalim": true,
       "done": [
         "Week of Oct 12 plan",
-        "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)"
+        "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
+        "Beeline Oct 5\u201311 approved (Yineska Garcia)"
       ],
       "inProgress": [
         "Track Progressive car coverage call"
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Call Progressive about car coverage",
-        "Confirm Beeline hours submitted by 3 PM"
+        "Call Progressive about car coverage"
       ]
     },
     {
@@ -279,7 +279,8 @@
         "Flagged KDP publish and ISBN emails",
         "Confirmed Truemed inquiry sent",
         "Surfaced MBO Melissa reply",
-        "Surfaced Edwards BGC progress email"
+        "Surfaced Edwards BGC progress email",
+        "Surfaced Beeline timesheet approval (Oct 5\u201311)"
       ],
       "inProgress": [
         "Watching Progressive / Truemed"
