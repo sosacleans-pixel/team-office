@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-13T13:52:00-06:00",
+  "lastUpdated": "2026-10-13T14:50:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "1:48 PM hourly check (Oct 13): Edwards HR asked about Factum Boxing and Crossfit; flagged to Salim",
+      "currentTask": "2:50 PM hourly check (Oct 13): nothing new for Salim since Factum flag",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -74,15 +74,15 @@
         "ElevenLabs clone path set with Web Manager",
         "TYR return label fee waived (refund pending)",
         "FitnessTrainer.com account deletion confirmed",
-        "Beeline Oct 5–11 hours approved by Yineska",
+        "Beeline Oct 5\u201311 hours approved by Yineska",
         "Edwards HR background-report request flagged",
         "USAT coach insurance answers received and flagged",
         "Oct 13 morning briefing sent",
         "Flagged Chime decline of Venmo debit",
         "ElevenLabs Starter signed up",
         "KDP proof cart-ready notice flagged",
-        "Edwards HR reply sent (7:00 AM MT, Denisse Guillén)",
-        "LinkedIn Experience published (Coach, Santosh, PT 2017–2025, Sosa; UNIBE fixed)",
+        "Edwards HR reply sent (7:00 AM MT, Denisse Guill\u00e9n)",
+        "LinkedIn Experience published (Coach, Santosh, PT 2017\u20132025, Sosa; UNIBE fixed)",
         "Credit letters forwarded to Edwards work email for print",
         "Amazon shipped 3 book items to Herriman",
         "Edwards HR Factum follow-up flagged"
@@ -94,9 +94,9 @@
       "needsSalimItems": [
         "Reply to Edwards HR with Factum Boxing and Crossfit details (draft ready, confirm dates)",
         "Confirm in Venmo the rent to Kellie went through",
-        "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items today — confirm whether that was the proof)",
-        "Paste ElevenLabs API key (sk_…) into Web Manager secure field (Voice ID was entered by mistake)",
-        "Approve reader-app reminders/streaks preview with Web Manager (day 1–3 + comeback copy in progress)",
+        "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items today \u2014 confirm whether that was the proof)",
+        "Paste ElevenLabs API key (sk_\u2026) into Web Manager secure field (Voice ID was entered by mistake)",
+        "Approve reader-app reminders/streaks preview with Web Manager (day 1\u20133 + comeback copy in progress)",
         "Mail four certified credit letters (drafts already at Edwards email for print)",
         "Decide on personal-trainer liability insurance before in-person sessions (Insure Fitness Group recommended)",
         "Call Progressive about car coverage",
@@ -115,7 +115,7 @@
       "done": [
         "Week of Oct 12 plan",
         "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
-        "Beeline Oct 5–11 approved (Yineska Garcia)"
+        "Beeline Oct 5\u201311 approved (Yineska Garcia)"
       ],
       "inProgress": [
         "Track Progressive car coverage call"
@@ -190,7 +190,7 @@
       "department": "coach",
       "avatar": "img/avatars/coach-salim-hq.jpg",
       "status": "working",
-      "currentTask": "Waiting on Truemed; trainer insurance recommendation ready",
+      "currentTask": "Still waiting on Truemed (inquiry Oct 11); trainer insurance rec ready",
       "needsSalim": true,
       "done": [
         "Truemed NASM eligibility email sent",
@@ -248,7 +248,7 @@
       "department": "online",
       "avatar": "img/avatars/web-manager.jpg",
       "status": "working",
-      "currentTask": "Reader-app reminders/streaks preview + day 1–3/comeback copy",
+      "currentTask": "Reader-app reminders/streaks + day 1\u20133/comeback copy with Salim",
       "needsSalim": true,
       "done": [
         "Coach site live",
@@ -269,7 +269,7 @@
       "blocked": [],
       "needsSalimItems": [
         "Approve reminders/streaks preview (then Supabase one-time setup for push)",
-        "Paste ElevenLabs API key (sk_…) via secure field"
+        "Paste ElevenLabs API key (sk_\u2026) via secure field"
       ]
     },
     {
@@ -285,7 +285,7 @@
         "Instagram plan approved",
         "LinkedIn password reset overnight",
         "Facebook cover-photo post hidden",
-        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017–Apr 2025, Sosa",
+        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017\u2013Apr 2025, Sosa",
         "UNIBE degree set to BS Civil Engineering",
         "Coach LLC moved to top of Experience; approved headline restored",
         "Author photo / Wasatch banner / coachsalimheyaime.com on X, Facebook, LinkedIn"
@@ -301,14 +301,14 @@
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
       "status": "working",
-      "currentTask": "Watching Truemed / Progressive / Venmo; logged Amazon book shipment",
+      "currentTask": "Watching Truemed / Progressive / Venmo; no new actionable mail since 1:48",
       "needsSalim": false,
       "done": [
         "Flagged KDP publish and ISBN emails",
         "Confirmed Truemed inquiry sent",
         "Surfaced MBO Melissa reply",
         "Surfaced Edwards BGC progress email",
-        "Surfaced Beeline timesheet approval (Oct 5–11)"
+        "Surfaced Beeline timesheet approval (Oct 5\u201311)"
       ],
       "inProgress": [
         "Watching Progressive / Truemed / Venmo confirm"
@@ -430,7 +430,7 @@
       "inProgress": [],
       "blocked": [],
       "needsSalimItems": [
-        "Confirm KDP proof checkout (deadline ~8:46 AM Wed 10/14) and that ISBN-corrected manuscript is on KDP; Amazon shipped 3 book items arriving tomorrow — confirm if that was the proof"
+        "Confirm KDP proof checkout (deadline ~8:46 AM Wed 10/14) and that ISBN-corrected manuscript is on KDP; Amazon shipped 3 book items arriving tomorrow \u2014 confirm if that was the proof"
       ]
     },
     {
@@ -440,7 +440,7 @@
       "department": "it",
       "avatar": "img/avatars/it-department.jpg",
       "status": "waiting_on_salim",
-      "currentTask": "Namecheap renewal due today; domain transfer blocked",
+      "currentTask": "Namecheap renewal due today (Oct 13); still need Kellie username",
       "needsSalim": true,
       "done": [
         "Security review",
@@ -463,11 +463,12 @@
       "department": "online",
       "avatar": "img/avatars/analytics.svg",
       "status": "working",
-      "currentTask": "Waiting on scheduled GA emails / measurement IDs",
+      "currentTask": "GA performance report arrived (heyaimesalim); scorecard wiring next",
       "needsSalim": false,
       "done": [
         "Bot created",
-        "Asked Web Manager to install GA4/Search Console"
+        "Asked Web Manager to install GA4/Search Console",
+        "September GA performance report received (Oct 13)"
       ],
       "inProgress": [
         "Site analytics setup; weekly GA email schedule still needs Salim once per property"
