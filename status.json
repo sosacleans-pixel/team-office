@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-13T12:53:00-06:00",
+  "lastUpdated": "2026-10-13T13:52:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "12:41 PM hourly check (Oct 13): quiet, nothing new for Salim",
+      "currentTask": "1:48 PM hourly check (Oct 13): Edwards HR asked about Factum Boxing and Crossfit; flagged to Salim",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -84,13 +84,15 @@
         "Edwards HR reply sent (7:00 AM MT, Denisse Guillén)",
         "LinkedIn Experience published (Coach, Santosh, PT 2017–2025, Sosa; UNIBE fixed)",
         "Credit letters forwarded to Edwards work email for print",
-        "Amazon shipped 3 book items to Herriman"
+        "Amazon shipped 3 book items to Herriman",
+        "Edwards HR Factum follow-up flagged"
       ],
       "inProgress": [
         "Monday priority stack running"
       ],
       "blocked": [],
       "needsSalimItems": [
+        "Reply to Edwards HR with Factum Boxing and Crossfit details (draft ready, confirm dates)",
         "Confirm in Venmo the rent to Kellie went through",
         "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items today — confirm whether that was the proof)",
         "Paste ElevenLabs API key (sk_…) into Web Manager secure field (Voice ID was entered by mistake)",
