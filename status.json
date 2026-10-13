@@ -1,480 +1,481 @@
 {
-  "schemaVersion": 1,
-  "lastUpdated": "2026-10-13T15:45:00-06:00",
-  "updatedBy": "Alfred",
-  "departments": [
-    {
-      "id": "alfred",
-      "name": "Chief of Staff",
-      "color": "#c9a227"
-    },
-    {
-      "id": "money",
-      "name": "Money",
-      "color": "#2e9d6a"
-    },
-    {
-      "id": "legal",
-      "name": "Legal",
-      "color": "#5b5fc7"
-    },
-    {
-      "id": "sosa",
-      "name": "Sosa Cleans",
-      "color": "#1f8fd1"
-    },
-    {
-      "id": "coach",
-      "name": "Coach & Santosh",
-      "color": "#e46b3c"
-    },
-    {
-      "id": "online",
-      "name": "Online",
-      "color": "#b04ad6"
-    },
-    {
-      "id": "email",
-      "name": "Email",
-      "color": "#d6455d"
-    },
-    {
-      "id": "travel",
-      "name": "Travel",
-      "color": "#17a3a3"
-    },
-    {
-      "id": "publishing",
-      "name": "Publishing",
-      "color": "#8a6d3b"
-    },
-    {
-      "id": "it",
-      "name": "IT",
-      "color": "#5f6b7a"
-    }
-  ],
-  "bots": [
-    {
-      "id": "alfred",
-      "name": "Alfred",
-      "role": "Chief of staff (also called Jaime): priorities, handoffs and team coordination",
-      "department": "alfred",
-      "avatar": "img/avatars/alfred.jpg",
-      "status": "working",
-      "currentTask": "3:45 PM hourly check (Oct 13): nothing new for Salim; Factum reply to Edwards HR still open",
-      "needsSalim": true,
-      "done": [
-        "Hourly self-update routine live",
-        "Overnight inbox sweep",
-        "KDP ISBN fix file ready notice sent",
-        "MBO pay reply flagged",
-        "Edwards BGC update flagged",
-        "Reader-app push-ups voice fix coordinated",
-        "ElevenLabs clone path set with Web Manager",
-        "TYR return label fee waived (refund pending)",
-        "FitnessTrainer.com account deletion confirmed",
-        "Beeline Oct 5\u201311 hours approved by Yineska",
-        "Edwards HR background-report request flagged",
-        "USAT coach insurance answers received and flagged",
-        "Oct 13 morning briefing sent",
-        "Flagged Chime decline of Venmo debit",
-        "ElevenLabs Starter signed up",
-        "KDP proof cart-ready notice flagged",
-        "Edwards HR reply sent (7:00 AM MT, Denisse Guill\u00e9n)",
-        "LinkedIn Experience published (Coach, Santosh, PT 2017\u20132025, Sosa; UNIBE fixed)",
-        "Credit letters forwarded to Edwards work email for print",
-        "Amazon shipped 3 book items to Herriman",
-        "Edwards HR Factum follow-up flagged"
-      ],
-      "inProgress": [
-        "Monday priority stack running"
-      ],
-      "blocked": [],
-      "needsSalimItems": [
-        "Reply to Edwards HR with Factum Boxing and Crossfit details (draft ready, confirm dates)",
-        "Confirm in Venmo the rent to Kellie went through",
-        "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items today \u2014 confirm whether that was the proof)",
-        "Paste ElevenLabs API key (sk_\u2026) into Web Manager secure field (Voice ID was entered by mistake)",
-        "Approve reader-app reminders/streaks preview with Web Manager (day 1\u20133 + comeback copy in progress)",
-        "Mail four certified credit letters (drafts already at Edwards email for print)",
-        "Decide on personal-trainer liability insurance before in-person sessions (Insure Fitness Group recommended)",
-        "Call Progressive about car coverage",
-        "Namecheap renewal due today (Oct 13); send Kellie Namecheap username to IT"
-      ]
-    },
-    {
-      "id": "financial-adviser",
-      "name": "Financial Adviser",
-      "role": "Budgets, cash flow and money planning",
-      "department": "money",
-      "avatar": "img/avatars/financial-adviser.jpg",
-      "status": "working",
-      "currentTask": "Chime funded; Venmo confirm + Progressive still open",
-      "needsSalim": true,
-      "done": [
-        "Week of Oct 12 plan",
-        "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
-        "Beeline Oct 5\u201311 approved (Yineska Garcia)"
-      ],
-      "inProgress": [
-        "Track Progressive car coverage call"
-      ],
-      "blocked": [],
-      "needsSalimItems": [
-        "Confirm in Venmo the rent debit to Kellie completed after the Chime top-up",
-        "Call Progressive about car coverage"
-      ]
-    },
-    {
-      "id": "credit-repair",
-      "name": "Credit Repair",
-      "role": "Credit file work and timelines",
-      "department": "money",
-      "avatar": "img/avatars/credit-repair.svg",
-      "status": "waiting_on_salim",
-      "currentTask": "Letters at Edwards email for print; still need mailing",
-      "needsSalim": true,
-      "done": [
-        "Four letter drafts emailed",
-        "Forwarded to Edwards work email for print (7:19 AM MT)"
-      ],
-      "inProgress": [],
-      "blocked": [
-        "Waiting on Salim to print and mail letters"
-      ],
-      "needsSalimItems": [
-        "Print and mail four certified letters with return receipt"
-      ]
-    },
-    {
-      "id": "attorney",
-      "name": "Attorney",
-      "role": "Protective counsel: legal risk and contract review framing",
-      "department": "legal",
-      "avatar": "img/avatars/attorney.jpg",
-      "status": "idle",
-      "currentTask": "Wellness incentives memo delivered",
-      "needsSalim": false,
-      "done": [
-        "Company wellness incentives memo",
-        "Compliance and tax benefits site copy"
-      ],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
-    },
-    {
-      "id": "sosa-cleans-manager",
-      "name": "Sosa Cleans Manager",
-      "role": "Operations owner for the cleaning company",
-      "department": "sosa",
-      "avatar": "img/avatars/sosa-cleans-manager.jpg",
-      "status": "idle",
-      "currentTask": "Oct 16 Tax Commission visit prep",
-      "needsSalim": true,
-      "done": [],
-      "inProgress": [
-        "Oct 16 visit checklist"
-      ],
-      "blocked": [],
-      "needsSalimItems": [
-        "Oct 16 visit",
-        "Resubmit reinstatement work order by Oct 30"
-      ]
-    },
-    {
-      "id": "coach-salim-hq",
-      "name": "Coach Salim HQ",
-      "role": "Coaching business growth and operations",
-      "department": "coach",
-      "avatar": "img/avatars/coach-salim-hq.jpg",
-      "status": "working",
-      "currentTask": "Still waiting on Truemed (inquiry Oct 11); trainer insurance rec ready",
-      "needsSalim": true,
-      "done": [
-        "Truemed NASM eligibility email sent",
-        "USAT/Fairly Group coverage answers received (GL only,M/M, triathlon disciplines, individual only)"
-      ],
-      "inProgress": [
-        "Waiting on Truemed reply"
-      ],
-      "blocked": [],
-      "needsSalimItems": [
-        "Approve personal-trainer liability insurance (Insure Fitness Group recommended; Canopy with nutrition)"
-      ]
-    },
-    {
-      "id": "coach-fit",
-      "name": "Coach Fit",
-      "role": "Coaching knowledge, certifications and programming",
-      "department": "coach",
-      "avatar": "img/avatars/coach-fit.svg",
-      "status": "idle",
-      "currentTask": "Challenge library renamed",
-      "needsSalim": false,
-      "done": [
-        "Renamed A Challenge to Move 22, Dual Build 8, Calm Current 30",
-        "ACTM 22 restart-at-Day-1 rule; no reader-app link in BUF"
-      ],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
-    },
-    {
-      "id": "digital-pr",
-      "name": "Digital PR",
-      "role": "Online reputation and brand presence",
-      "department": "online",
-      "avatar": "img/avatars/digital-pr.jpg",
-      "status": "working",
-      "currentTask": "Campaign library and listing work",
-      "needsSalim": false,
-      "done": [
-        "Improve Your Numbers campaign draft"
-      ],
-      "inProgress": [
-        "Campaign calendar"
-      ],
-      "blocked": [
-        "Sosa listing cleanup after Oct 16 visit"
-      ],
-      "needsSalimItems": []
-    },
-    {
-      "id": "web-manager",
-      "name": "Web Manager",
-      "role": "Website developer and optimizer",
-      "department": "online",
-      "avatar": "img/avatars/web-manager.jpg",
-      "status": "working",
-      "currentTask": "Reader-app reminders/streaks + day 1\u20133/comeback copy with Salim",
-      "needsSalim": true,
-      "done": [
-        "Coach site live",
-        "Book app live",
-        "Santosh v3 live",
-        "Resend DNS verified",
-        "BUF original badge restored",
-        "Reader-app push-ups pronunciation fix live",
-        "ElevenLabs voice-clone playback with fallback live",
-        "ACTM app icon live (eae76af)",
-        "Reminders/streaks preview ready (not live)"
-      ],
-      "inProgress": [
-        "Building special day 1/2/3 + comeback reminder copy into preview",
-        "Waiting on ElevenLabs API key (sk_) for Coach voice clips",
-        "Analytics wiring across sites"
-      ],
-      "blocked": [],
-      "needsSalimItems": [
-        "Approve reminders/streaks preview (then Supabase one-time setup for push)",
-        "Paste ElevenLabs API key (sk_\u2026) via secure field"
-      ]
-    },
-    {
-      "id": "social-media-manager",
-      "name": "Social Media Manager",
-      "role": "Social channels and content",
-      "department": "online",
-      "avatar": "img/avatars/social-media-manager.svg",
-      "status": "idle",
-      "currentTask": "LinkedIn Experience published this morning",
-      "needsSalim": false,
-      "done": [
-        "Instagram plan approved",
-        "LinkedIn password reset overnight",
-        "Facebook cover-photo post hidden",
-        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017\u2013Apr 2025, Sosa",
-        "UNIBE degree set to BS Civil Engineering",
-        "Coach LLC moved to top of Experience; approved headline restored",
-        "Author photo / Wasatch banner / coachsalimheyaime.com on X, Facebook, LinkedIn"
-      ],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
-    },
-    {
-      "id": "el-cartero",
-      "name": "El Cartero",
-      "role": "Email manager: inbox rollups and digests",
-      "department": "email",
-      "avatar": "img/avatars/el-cartero.jpg",
-      "status": "working",
-      "currentTask": "Watching Truemed / Progressive / Venmo; no new actionable mail since 1:48",
-      "needsSalim": false,
-      "done": [
-        "Flagged KDP publish and ISBN emails",
-        "Confirmed Truemed inquiry sent",
-        "Surfaced MBO Melissa reply",
-        "Surfaced Edwards BGC progress email",
-        "Surfaced Beeline timesheet approval (Oct 5\u201311)"
-      ],
-      "inProgress": [
-        "Watching Progressive / Truemed / Venmo confirm"
-      ],
-      "blocked": [],
-      "needsSalimItems": []
-    },
-    {
-      "id": "sosa-cleans-inbox",
-      "name": "Sosa Cleans Inbox",
-      "role": "Triages and drafts for the Sosa Cleans inbox",
-      "department": "email",
-      "avatar": "img/avatars/sosa-cleans-inbox.jpg",
-      "status": "idle",
-      "currentTask": "Monitoring the inbox",
-      "needsSalim": false,
-      "done": [
-        "Logged Quote Masters sales pitch (FYI, no action)"
-      ],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": [],
-      "alsoIn": [
-        "sosa"
-      ]
-    },
-    {
-      "id": "coach-salim-inbox",
-      "name": "Coach Salim Inbox",
-      "role": "Triages and drafts for the coaching inbox",
-      "department": "email",
-      "avatar": "img/avatars/coach-salim-inbox.jpg",
-      "status": "idle",
-      "currentTask": "Monitoring",
-      "needsSalim": false,
-      "done": [],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
-    },
-    {
-      "id": "santosh-retreats-inbox",
-      "name": "Santosh Retreats Inbox",
-      "role": "Triages and drafts for the retreats inbox",
-      "department": "email",
-      "avatar": "img/avatars/santosh-retreats-inbox.jpg",
-      "status": "idle",
-      "currentTask": "Monitoring",
-      "needsSalim": false,
-      "done": [],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
-    },
-    {
-      "id": "sr-heyaime-s-mailroom",
-      "name": "Sr. Heyaime's Mailroom",
-      "role": "Triages and drafts for a personal inbox",
-      "department": "email",
-      "avatar": "img/avatars/sr-heyaime-s-mailroom.jpg",
-      "status": "idle",
-      "currentTask": "Monitoring",
-      "needsSalim": false,
-      "done": [],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
-    },
-    {
-      "id": "don-salim-s-mailroom",
-      "name": "Don Salim's Mailroom",
-      "role": "Triages and drafts for Salim's personal inbox",
-      "department": "email",
-      "avatar": "img/avatars/don-salim-s-mailroom.jpg",
-      "status": "idle",
-      "currentTask": "Monitoring",
-      "needsSalim": false,
-      "done": [],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": []
-    },
-    {
-      "id": "travel-agent-smith",
-      "name": "Travel Agent Smith",
-      "role": "Trips, travel documents and appointments watch",
-      "department": "travel",
-      "avatar": "img/avatars/travel-agent-smith.jpg",
-      "status": "blocked",
-      "currentTask": "HYROX Anaheim sold out",
-      "needsSalim": true,
-      "done": [
-        "Trip priced"
-      ],
-      "inProgress": [],
-      "blocked": [
-        "Race sold out"
-      ],
-      "needsSalimItems": [
-        "Decide next step on race ticket"
-      ]
-    },
-    {
-      "id": "book-publisher",
-      "name": "Book Publisher",
-      "role": "Book structure, packaging and publishing",
-      "department": "publishing",
-      "avatar": "img/avatars/book-publisher.jpg",
-      "status": "waiting_on_salim",
-      "currentTask": "KDP proof cart deadline ~8:46 AM Wed 10/14; Amazon shipped 3 book items today",
-      "needsSalim": true,
-      "done": [
-        "Paperback published on KDP 10/11 9:42 PM",
-        "Corrected manuscript with KDP ISBN 979-8-16-163408-0 ready (80 pages)",
-        "Cover confirmed fine (no printed ISBN or barcode)",
-        "Confirmed no salimheyaime.com links in ISBN manuscript",
-        "ACTM app icon assets delivered to Web Manager"
-      ],
-      "inProgress": [],
-      "blocked": [],
-      "needsSalimItems": [
-        "Confirm KDP proof checkout (deadline ~8:46 AM Wed 10/14) and that ISBN-corrected manuscript is on KDP; Amazon shipped 3 book items arriving tomorrow \u2014 confirm if that was the proof"
-      ]
-    },
-    {
-      "id": "it-department",
-      "name": "IT Department",
-      "role": "In-house tech support desk",
-      "department": "it",
-      "avatar": "img/avatars/it-department.jpg",
-      "status": "waiting_on_salim",
-      "currentTask": "Namecheap renewal due today (Oct 13); still need Kellie username",
-      "needsSalim": true,
-      "done": [
-        "Security review",
-        "Hosting migration plan"
-      ],
-      "inProgress": [],
-      "blocked": [
-        "Needs Kellie Namecheap username for transfer"
-      ],
-      "needsSalimItems": [
-        "Namecheap renewal due today (Oct 13)",
-        "Send Kellie Namecheap username for transfer",
-        "Add card to domain registrar before late October"
-      ]
-    },
-    {
-      "id": "analytics",
-      "name": "Analytics",
-      "role": "Weekly scorecards on traffic, leads and engagement",
-      "department": "online",
-      "avatar": "img/avatars/analytics.svg",
-      "status": "working",
-      "currentTask": "GA performance report arrived (heyaimesalim); scorecard wiring next",
-      "needsSalim": false,
-      "done": [
-        "Bot created",
-        "Asked Web Manager to install GA4/Search Console",
-        "September GA performance report received (Oct 13)"
-      ],
-      "inProgress": [
-        "Site analytics setup; weekly GA email schedule still needs Salim once per property"
-      ],
-      "blocked": [],
-      "needsSalimItems": []
-    }
-  ]
+ "schemaVersion": 1,
+ "lastUpdated": "2026-10-13T16:50:00-06:00",
+ "updatedBy": "Alfred",
+ "departments": [
+  {
+   "id": "alfred",
+   "name": "Chief of Staff",
+   "color": "#c9a227"
+  },
+  {
+   "id": "money",
+   "name": "Money",
+   "color": "#2e9d6a"
+  },
+  {
+   "id": "legal",
+   "name": "Legal",
+   "color": "#5b5fc7"
+  },
+  {
+   "id": "sosa",
+   "name": "Sosa Cleans",
+   "color": "#1f8fd1"
+  },
+  {
+   "id": "coach",
+   "name": "Coach & Santosh",
+   "color": "#e46b3c"
+  },
+  {
+   "id": "online",
+   "name": "Online",
+   "color": "#b04ad6"
+  },
+  {
+   "id": "email",
+   "name": "Email",
+   "color": "#d6455d"
+  },
+  {
+   "id": "travel",
+   "name": "Travel",
+   "color": "#17a3a3"
+  },
+  {
+   "id": "publishing",
+   "name": "Publishing",
+   "color": "#8a6d3b"
+  },
+  {
+   "id": "it",
+   "name": "IT",
+   "color": "#5f6b7a"
+  }
+ ],
+ "bots": [
+  {
+   "id": "alfred",
+   "name": "Alfred",
+   "role": "Chief of staff (also called Jaime): priorities, handoffs and team coordination",
+   "department": "alfred",
+   "avatar": "img/avatars/alfred.jpg",
+   "status": "working",
+   "currentTask": "4:46 PM hourly check (Oct 13): nothing new for Salim; Factum reply to Edwards HR still open",
+   "needsSalim": true,
+   "done": [
+    "Hourly self-update routine live",
+    "Overnight inbox sweep",
+    "KDP ISBN fix file ready notice sent",
+    "MBO pay reply flagged",
+    "Edwards BGC update flagged",
+    "Reader-app push-ups voice fix coordinated",
+    "ElevenLabs clone path set with Web Manager",
+    "TYR return label fee waived (refund pending)",
+    "FitnessTrainer.com account deletion confirmed",
+    "Beeline Oct 5\u201311 hours approved by Yineska",
+    "Edwards HR background-report request flagged",
+    "USAT coach insurance answers received and flagged",
+    "Oct 13 morning briefing sent",
+    "Flagged Chime decline of Venmo debit",
+    "ElevenLabs Starter signed up",
+    "KDP proof cart-ready notice flagged",
+    "Edwards HR reply sent (7:00 AM MT, Denisse Guill\u00e9n)",
+    "LinkedIn Experience published (Coach, Santosh, PT 2017\u20132025, Sosa; UNIBE fixed)",
+    "Credit letters forwarded to Edwards work email for print",
+    "Amazon shipped 3 book items to Herriman",
+    "Edwards HR Factum follow-up flagged",
+    "Jan-Pro September statement question answered"
+   ],
+   "inProgress": [
+    "Monday priority stack running"
+   ],
+   "blocked": [],
+   "needsSalimItems": [
+    "Reply to Edwards HR with Factum Boxing and Crossfit details (draft ready, confirm dates)",
+    "Confirm in Venmo the rent to Kellie went through",
+    "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items today \u2014 confirm whether that was the proof)",
+    "Paste ElevenLabs API key (sk_\u2026) into Web Manager secure field (Voice ID was entered by mistake)",
+    "Approve reader-app reminders/streaks preview with Web Manager (day 1\u20133 + comeback copy in progress)",
+    "Mail four certified credit letters (drafts already at Edwards email for print)",
+    "Decide on personal-trainer liability insurance before in-person sessions (Insure Fitness Group recommended)",
+    "Call Progressive about car coverage",
+    "Namecheap renewal due today (Oct 13); send Kellie Namecheap username to IT"
+   ]
+  },
+  {
+   "id": "financial-adviser",
+   "name": "Financial Adviser",
+   "role": "Budgets, cash flow and money planning",
+   "department": "money",
+   "avatar": "img/avatars/financial-adviser.jpg",
+   "status": "working",
+   "currentTask": "Chime funded; Venmo confirm + Progressive still open",
+   "needsSalim": true,
+   "done": [
+    "Week of Oct 12 plan",
+    "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
+    "Beeline Oct 5\u201311 approved (Yineska Garcia)"
+   ],
+   "inProgress": [
+    "Track Progressive car coverage call"
+   ],
+   "blocked": [],
+   "needsSalimItems": [
+    "Confirm in Venmo the rent debit to Kellie completed after the Chime top-up",
+    "Call Progressive about car coverage"
+   ]
+  },
+  {
+   "id": "credit-repair",
+   "name": "Credit Repair",
+   "role": "Credit file work and timelines",
+   "department": "money",
+   "avatar": "img/avatars/credit-repair.svg",
+   "status": "waiting_on_salim",
+   "currentTask": "Letters at Edwards email for print; still need mailing",
+   "needsSalim": true,
+   "done": [
+    "Four letter drafts emailed",
+    "Forwarded to Edwards work email for print (7:19 AM MT)"
+   ],
+   "inProgress": [],
+   "blocked": [
+    "Waiting on Salim to print and mail letters"
+   ],
+   "needsSalimItems": [
+    "Print and mail four certified letters with return receipt"
+   ]
+  },
+  {
+   "id": "attorney",
+   "name": "Attorney",
+   "role": "Protective counsel: legal risk and contract review framing",
+   "department": "legal",
+   "avatar": "img/avatars/attorney.jpg",
+   "status": "idle",
+   "currentTask": "Wellness incentives memo delivered",
+   "needsSalim": false,
+   "done": [
+    "Company wellness incentives memo",
+    "Compliance and tax benefits site copy"
+   ],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": []
+  },
+  {
+   "id": "sosa-cleans-manager",
+   "name": "Sosa Cleans Manager",
+   "role": "Operations owner for the cleaning company",
+   "department": "sosa",
+   "avatar": "img/avatars/sosa-cleans-manager.jpg",
+   "status": "idle",
+   "currentTask": "Oct 16 Tax Commission visit prep",
+   "needsSalim": true,
+   "done": [],
+   "inProgress": [
+    "Oct 16 visit checklist"
+   ],
+   "blocked": [],
+   "needsSalimItems": [
+    "Oct 16 visit",
+    "Resubmit reinstatement work order by Oct 30"
+   ]
+  },
+  {
+   "id": "coach-salim-hq",
+   "name": "Coach Salim HQ",
+   "role": "Coaching business growth and operations",
+   "department": "coach",
+   "avatar": "img/avatars/coach-salim-hq.jpg",
+   "status": "working",
+   "currentTask": "Still waiting on Truemed (inquiry Oct 11); trainer insurance rec ready",
+   "needsSalim": true,
+   "done": [
+    "Truemed NASM eligibility email sent",
+    "USAT/Fairly Group coverage answers received (GL only,M/M, triathlon disciplines, individual only)"
+   ],
+   "inProgress": [
+    "Waiting on Truemed reply"
+   ],
+   "blocked": [],
+   "needsSalimItems": [
+    "Approve personal-trainer liability insurance (Insure Fitness Group recommended; Canopy with nutrition)"
+   ]
+  },
+  {
+   "id": "coach-fit",
+   "name": "Coach Fit",
+   "role": "Coaching knowledge, certifications and programming",
+   "department": "coach",
+   "avatar": "img/avatars/coach-fit.svg",
+   "status": "idle",
+   "currentTask": "Challenge library renamed",
+   "needsSalim": false,
+   "done": [
+    "Renamed A Challenge to Move 22, Dual Build 8, Calm Current 30",
+    "ACTM 22 restart-at-Day-1 rule; no reader-app link in BUF"
+   ],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": []
+  },
+  {
+   "id": "digital-pr",
+   "name": "Digital PR",
+   "role": "Online reputation and brand presence",
+   "department": "online",
+   "avatar": "img/avatars/digital-pr.jpg",
+   "status": "working",
+   "currentTask": "Campaign library and listing work",
+   "needsSalim": false,
+   "done": [
+    "Improve Your Numbers campaign draft"
+   ],
+   "inProgress": [
+    "Campaign calendar"
+   ],
+   "blocked": [
+    "Sosa listing cleanup after Oct 16 visit"
+   ],
+   "needsSalimItems": []
+  },
+  {
+   "id": "web-manager",
+   "name": "Web Manager",
+   "role": "Website developer and optimizer",
+   "department": "online",
+   "avatar": "img/avatars/web-manager.jpg",
+   "status": "working",
+   "currentTask": "Reader-app reminders/streaks + day 1\u20133/comeback copy with Salim",
+   "needsSalim": true,
+   "done": [
+    "Coach site live",
+    "Book app live",
+    "Santosh v3 live",
+    "Resend DNS verified",
+    "BUF original badge restored",
+    "Reader-app push-ups pronunciation fix live",
+    "ElevenLabs voice-clone playback with fallback live",
+    "ACTM app icon live (eae76af)",
+    "Reminders/streaks preview ready (not live)"
+   ],
+   "inProgress": [
+    "Building special day 1/2/3 + comeback reminder copy into preview",
+    "Waiting on ElevenLabs API key (sk_) for Coach voice clips",
+    "Analytics wiring across sites"
+   ],
+   "blocked": [],
+   "needsSalimItems": [
+    "Approve reminders/streaks preview (then Supabase one-time setup for push)",
+    "Paste ElevenLabs API key (sk_\u2026) via secure field"
+   ]
+  },
+  {
+   "id": "social-media-manager",
+   "name": "Social Media Manager",
+   "role": "Social channels and content",
+   "department": "online",
+   "avatar": "img/avatars/social-media-manager.svg",
+   "status": "idle",
+   "currentTask": "LinkedIn Experience published this morning",
+   "needsSalim": false,
+   "done": [
+    "Instagram plan approved",
+    "LinkedIn password reset overnight",
+    "Facebook cover-photo post hidden",
+    "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017\u2013Apr 2025, Sosa",
+    "UNIBE degree set to BS Civil Engineering",
+    "Coach LLC moved to top of Experience; approved headline restored",
+    "Author photo / Wasatch banner / coachsalimheyaime.com on X, Facebook, LinkedIn"
+   ],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": []
+  },
+  {
+   "id": "el-cartero",
+   "name": "El Cartero",
+   "role": "Email manager: inbox rollups and digests",
+   "department": "email",
+   "avatar": "img/avatars/el-cartero.jpg",
+   "status": "working",
+   "currentTask": "Watching Truemed / Progressive / Venmo; no new actionable mail since 1:48",
+   "needsSalim": false,
+   "done": [
+    "Flagged KDP publish and ISBN emails",
+    "Confirmed Truemed inquiry sent",
+    "Surfaced MBO Melissa reply",
+    "Surfaced Edwards BGC progress email",
+    "Surfaced Beeline timesheet approval (Oct 5\u201311)"
+   ],
+   "inProgress": [
+    "Watching Progressive / Truemed / Venmo confirm"
+   ],
+   "blocked": [],
+   "needsSalimItems": []
+  },
+  {
+   "id": "sosa-cleans-inbox",
+   "name": "Sosa Cleans Inbox",
+   "role": "Triages and drafts for the Sosa Cleans inbox",
+   "department": "email",
+   "avatar": "img/avatars/sosa-cleans-inbox.jpg",
+   "status": "idle",
+   "currentTask": "Monitoring the inbox",
+   "needsSalim": false,
+   "done": [
+    "Logged Quote Masters sales pitch (FYI, no action)"
+   ],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": [],
+   "alsoIn": [
+    "sosa"
+   ]
+  },
+  {
+   "id": "coach-salim-inbox",
+   "name": "Coach Salim Inbox",
+   "role": "Triages and drafts for the coaching inbox",
+   "department": "email",
+   "avatar": "img/avatars/coach-salim-inbox.jpg",
+   "status": "idle",
+   "currentTask": "Monitoring",
+   "needsSalim": false,
+   "done": [],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": []
+  },
+  {
+   "id": "santosh-retreats-inbox",
+   "name": "Santosh Retreats Inbox",
+   "role": "Triages and drafts for the retreats inbox",
+   "department": "email",
+   "avatar": "img/avatars/santosh-retreats-inbox.jpg",
+   "status": "idle",
+   "currentTask": "Monitoring",
+   "needsSalim": false,
+   "done": [],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": []
+  },
+  {
+   "id": "sr-heyaime-s-mailroom",
+   "name": "Sr. Heyaime's Mailroom",
+   "role": "Triages and drafts for a personal inbox",
+   "department": "email",
+   "avatar": "img/avatars/sr-heyaime-s-mailroom.jpg",
+   "status": "idle",
+   "currentTask": "Monitoring",
+   "needsSalim": false,
+   "done": [],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": []
+  },
+  {
+   "id": "don-salim-s-mailroom",
+   "name": "Don Salim's Mailroom",
+   "role": "Triages and drafts for Salim's personal inbox",
+   "department": "email",
+   "avatar": "img/avatars/don-salim-s-mailroom.jpg",
+   "status": "idle",
+   "currentTask": "Monitoring",
+   "needsSalim": false,
+   "done": [],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": []
+  },
+  {
+   "id": "travel-agent-smith",
+   "name": "Travel Agent Smith",
+   "role": "Trips, travel documents and appointments watch",
+   "department": "travel",
+   "avatar": "img/avatars/travel-agent-smith.jpg",
+   "status": "blocked",
+   "currentTask": "HYROX Anaheim sold out",
+   "needsSalim": true,
+   "done": [
+    "Trip priced"
+   ],
+   "inProgress": [],
+   "blocked": [
+    "Race sold out"
+   ],
+   "needsSalimItems": [
+    "Decide next step on race ticket"
+   ]
+  },
+  {
+   "id": "book-publisher",
+   "name": "Book Publisher",
+   "role": "Book structure, packaging and publishing",
+   "department": "publishing",
+   "avatar": "img/avatars/book-publisher.jpg",
+   "status": "waiting_on_salim",
+   "currentTask": "KDP proof cart deadline ~8:46 AM Wed 10/14; Amazon shipped 3 book items today",
+   "needsSalim": true,
+   "done": [
+    "Paperback published on KDP 10/11 9:42 PM",
+    "Corrected manuscript with KDP ISBN 979-8-16-163408-0 ready (80 pages)",
+    "Cover confirmed fine (no printed ISBN or barcode)",
+    "Confirmed no salimheyaime.com links in ISBN manuscript",
+    "ACTM app icon assets delivered to Web Manager"
+   ],
+   "inProgress": [],
+   "blocked": [],
+   "needsSalimItems": [
+    "Confirm KDP proof checkout (deadline ~8:46 AM Wed 10/14) and that ISBN-corrected manuscript is on KDP; Amazon shipped 3 book items arriving tomorrow \u2014 confirm if that was the proof"
+   ]
+  },
+  {
+   "id": "it-department",
+   "name": "IT Department",
+   "role": "In-house tech support desk",
+   "department": "it",
+   "avatar": "img/avatars/it-department.jpg",
+   "status": "waiting_on_salim",
+   "currentTask": "Namecheap renewal due today (Oct 13); still need Kellie username",
+   "needsSalim": true,
+   "done": [
+    "Security review",
+    "Hosting migration plan"
+   ],
+   "inProgress": [],
+   "blocked": [
+    "Needs Kellie Namecheap username for transfer"
+   ],
+   "needsSalimItems": [
+    "Namecheap renewal due today (Oct 13)",
+    "Send Kellie Namecheap username for transfer",
+    "Add card to domain registrar before late October"
+   ]
+  },
+  {
+   "id": "analytics",
+   "name": "Analytics",
+   "role": "Weekly scorecards on traffic, leads and engagement",
+   "department": "online",
+   "avatar": "img/avatars/analytics.svg",
+   "status": "working",
+   "currentTask": "GA performance report arrived (heyaimesalim); scorecard wiring next",
+   "needsSalim": false,
+   "done": [
+    "Bot created",
+    "Asked Web Manager to install GA4/Search Console",
+    "September GA performance report received (Oct 13)"
+   ],
+   "inProgress": [
+    "Site analytics setup; weekly GA email schedule still needs Salim once per property"
+   ],
+   "blocked": [],
+   "needsSalimItems": []
+  }
+ ]
 }
