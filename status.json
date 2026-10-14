@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-13T17:50:00-06:00",
+  "lastUpdated": "2026-10-13T18:55:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "5:43 PM hourly check (Oct 13): Factum reply to Edwards HR sent; nothing new for Salim",
+      "currentTask": "6:50 PM hourly check (Oct 13): nothing new for Salim; book site and reader-app updates logged",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -97,7 +97,6 @@
         "Confirm in Venmo the rent to Kellie went through",
         "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items today — confirm whether that was the proof)",
         "Paste ElevenLabs API key (sk_…) into Web Manager secure field (Voice ID was entered by mistake)",
-        "Approve reader-app reminders/streaks preview with Web Manager (day 1–3 + comeback copy in progress)",
         "Mail four certified credit letters (drafts already at Edwards email for print)",
         "Decide on personal-trainer liability insurance before in-person sessions (Insure Fitness Group recommended)",
         "Call Progressive about car coverage",
@@ -250,7 +249,7 @@
       "department": "online",
       "avatar": "img/avatars/web-manager.jpg",
       "status": "working",
-      "currentTask": "Reader-app reminders/streaks + day 1–3/comeback copy with Salim",
+      "currentTask": "Book site polish with Salim; reader-app reminders/streaks now live",
       "needsSalim": true,
       "done": [
         "Coach site live",
@@ -263,16 +262,18 @@
         "ACTM app icon live (eae76af)",
         "Reminders/streaks preview ready (not live)",
         "Book site author photo set to back-cover headshot",
-        "Book site free Try Day 1 trial added (email gate, timer, Amazon button)"
+        "Book site free Try Day 1 trial added (email gate, timer, Amazon button)",
+        "Reader-app reminders/streaks + day 1–3/comeback copy merged live (5:50 PM)",
+        "Book site before/after story tried, then reverted at Salim’s call",
+        "Book site: removed Start the 22-day challenge buttons and with Coach Salim top strip (6:32 PM)"
       ],
       "inProgress": [
-        "Building special day 1/2/3 + comeback reminder copy into preview",
         "Waiting on ElevenLabs API key (sk_) for Coach voice clips",
         "Analytics wiring across sites"
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Approve reminders/streaks preview (then Supabase one-time setup for push)",
+        "Supabase one-time setup for push reminders, if still pending",
         "Paste ElevenLabs API key (sk_…) via secure field"
       ]
     },
