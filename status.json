@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "lastUpdated": "2026-10-14T07:50:00-06:00",
+ "lastUpdated": "2026-10-14T08:50:00-06:00",
  "updatedBy": "Alfred",
  "departments": [
   {
@@ -62,7 +62,7 @@
    "department": "alfred",
    "avatar": "img/avatars/alfred.jpg",
    "status": "working",
-   "currentTask": "7:46 AM hourly: Amazon book-site button live; Namecheap domain reply still owed by Web Manager",
+   "currentTask": "8:47 AM hourly: quiet since 7:46; Namecheap already answered; credit letters still due today",
    "needsSalim": true,
    "done": [
     "Hourly self-update routine live",
@@ -96,7 +96,10 @@
     "Oct 14 morning briefing sent",
     "A Challenge to Move paperback published on Amazon (6:37 AM)",
     "Compliance register built by Attorney (64 items)",
-    "Book-site Amazon button pointed at live paperback listing"
+    "Book-site Amazon button pointed at live paperback listing",
+    "Corrected: Web Manager answered Namecheap Oct 13 (domain available; no purchase)",
+    "Claim page dropped by Salim (not merged)",
+    "The General dispute follow-up sent (Oct 14 morning)"
    ],
    "inProgress": [
     "Monday priority stack running"
@@ -109,7 +112,7 @@
     "Decide on personal-trainer liability insurance before in-person sessions",
     "Call Progressive about car coverage",
     "Namecheap renewal was due Oct 13; send Kellie Namecheap username to IT",
-    "Optional: review book claim-page preview when Web Manager sends it"
+    "Optional: buy achallengetomove.com (available; Namecheap link already sent)"
    ]
   },
   {
@@ -142,7 +145,7 @@
    "department": "money",
    "avatar": "img/avatars/credit-repair.svg",
    "status": "waiting_on_salim",
-   "currentTask": "Letters ready; Salim plans to mail Oct 14",
+   "currentTask": "Letters ready; still planned to mail Oct 14",
    "needsSalim": true,
    "done": [
     "Four letter drafts emailed",
@@ -163,14 +166,18 @@
    "department": "legal",
    "avatar": "img/avatars/attorney.jpg",
    "status": "working",
-   "currentTask": "Owns compliance tracking; register built Oct 14",
+   "currentTask": "Compliance register live; watching The General follow-up for reply",
    "needsSalim": true,
    "done": [
     "Company wellness incentives memo",
     "Compliance and tax benefits site copy",
-    "Compliance register built (Oct 14)"
+    "Compliance register built (Oct 14)",
+    "Took over The General billing dispute",
+    "Follow-up to The General sent Oct 14 morning"
    ],
-   "inProgress": [],
+   "inProgress": [
+    "Watching The General for written reply (check ~Oct 30)"
+   ],
    "blocked": [],
    "needsSalimItems": [
     "Confirm whether a TY2025 1040 extension was filed (Oct 15)"
@@ -259,8 +266,8 @@
    "role": "Website developer and optimizer",
    "department": "online",
    "avatar": "img/avatars/web-manager.jpg",
-   "status": "working",
-   "currentTask": "Namecheap reply for book domain still pending (~12h); claim page on preview branch",
+   "status": "idle",
+   "currentTask": "Quiet since Amazon button update; claim page dropped; Namecheap answered",
    "needsSalim": true,
    "done": [
     "Coach site live",
@@ -279,18 +286,16 @@
     "ElevenLabs API key received from Salim (7:45 PM)",
     "Personal site Author title live (hero, meta, JSON-LD)",
     "ElevenLabs Coach voice clips live in reader app",
-    "Book-site Amazon buy links set to paperback ASIN B0HN22P5F4"
+    "Book-site Amazon buy links set to paperback ASIN B0HN22P5F4",
+    "Namecheap: reported achallengetomove.com available (Oct 13 evening)",
+    "Claim page dropped per Salim (never merged)"
    ],
    "inProgress": [
-    "Namecheap price check for achallengetomove.com (registry still shows unregistered)",
-    "Book claim page on preview branch (not live yet)",
     "Analytics wiring across sites"
    ],
    "blocked": [],
    "needsSalimItems": [
-    "Supabase one-time setup for push reminders, if still pending",
-    "Decide on book domain after Namecheap search result",
-    "Approve claim page when previewed"
+    "Optional: buy achallengetomove.com and say when to point it at the book site"
    ]
   },
   {
@@ -321,8 +326,8 @@
    "role": "Email manager: inbox rollups and digests",
    "department": "email",
    "avatar": "img/avatars/el-cartero.jpg",
-   "status": "working",
-   "currentTask": "Quiet since 6:43; no Truemed or Progressive reply",
+   "status": "idle",
+   "currentTask": "Quiet since 7:46; no Truemed or Progressive reply",
    "needsSalim": false,
    "done": [
     "Flagged KDP publish and ISBN emails",
@@ -485,7 +490,7 @@
    "department": "online",
    "avatar": "img/avatars/analytics.svg",
    "status": "working",
-   "currentTask": "Sosa GA setup-complete mail received; scorecard wiring next",
+   "currentTask": "Sosa GA setup complete; scorecard wiring next",
    "needsSalim": false,
    "done": [
     "Bot created",
