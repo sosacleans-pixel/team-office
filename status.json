@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "lastUpdated": "2026-10-14T06:50:00-06:00",
+ "lastUpdated": "2026-10-14T07:50:00-06:00",
  "updatedBy": "Alfred",
  "departments": [
   {
@@ -62,7 +62,7 @@
    "department": "alfred",
    "avatar": "img/avatars/alfred.jpg",
    "status": "working",
-   "currentTask": "6:43 AM hourly: book is live on Amazon; flagged Amazon button for the book site and the Oct 15 tax-extension question",
+   "currentTask": "7:46 AM hourly: Amazon book-site button live; Namecheap domain reply still owed by Web Manager",
    "needsSalim": true,
    "done": [
     "Hourly self-update routine live",
@@ -74,28 +74,29 @@
     "ElevenLabs clone path set with Web Manager",
     "TYR return label fee waived (refund pending)",
     "FitnessTrainer.com account deletion confirmed",
-    "Beeline Oct 5–11 hours approved by Yineska",
+    "Beeline Oct 5\u201311 hours approved by Yineska",
     "Edwards HR background-report request flagged",
     "USAT coach insurance answers received and flagged",
     "Oct 13 morning briefing sent",
     "Flagged Chime decline of Venmo debit",
     "ElevenLabs Starter signed up",
     "KDP proof cart-ready notice flagged",
-    "Edwards HR reply sent (7:00 AM MT, Denisse Guillén)",
-    "LinkedIn Experience published (Coach, Santosh, PT 2017–2025, Sosa; UNIBE fixed)",
+    "Edwards HR reply sent (7:00 AM MT, Denisse Guill\u00e9n)",
+    "LinkedIn Experience published (Coach, Santosh, PT 2017\u20132025, Sosa; UNIBE fixed)",
     "Credit letters forwarded to Edwards work email for print",
     "Amazon shipped 3 book items to Herriman",
     "Edwards HR Factum follow-up flagged",
     "Jan-Pro September statement question answered",
     "Factum reply sent to Edwards HR (closed earlier this year, not listed)",
     "ElevenLabs API key received by Web Manager (7:45 PM)",
-    "Personal-site title set to Wellness Professional · Author · Entrepreneur",
+    "Personal-site title set to Wellness Professional \u00b7 Author \u00b7 Entrepreneur",
     "Personal signature guidance: Author title, blue S logo, keep salimheyaime.com",
     "Book domain registry check: achallengetomove.com unregistered",
     "Venmo rent to Kellie went through overnight (3:19 AM)",
     "Oct 14 morning briefing sent",
     "A Challenge to Move paperback published on Amazon (6:37 AM)",
-    "Compliance register built by Attorney (64 items)"
+    "Compliance register built by Attorney (64 items)",
+    "Book-site Amazon button pointed at live paperback listing"
    ],
    "inProgress": [
     "Monday priority stack running"
@@ -123,7 +124,7 @@
    "done": [
     "Week of Oct 12 plan",
     "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
-    "Beeline Oct 5–11 approved (Yineska Garcia)",
+    "Beeline Oct 5\u201311 approved (Yineska Garcia)",
     "Venmo rent debit cleared from Chime (3:19 AM Oct 14)"
    ],
    "inProgress": [
@@ -259,7 +260,7 @@
    "department": "online",
    "avatar": "img/avatars/web-manager.jpg",
    "status": "working",
-   "currentTask": "Namecheap reply for book domain still pending; claim page on preview branch",
+   "currentTask": "Namecheap reply for book domain still pending (~12h); claim page on preview branch",
    "needsSalim": true,
    "done": [
     "Coach site live",
@@ -272,18 +273,18 @@
     "ACTM app icon live (eae76af)",
     "Book site author photo set to back-cover headshot",
     "Book site free Try Day 1 trial added (email gate, timer, Amazon button)",
-    "Reader-app reminders/streaks + day 1–3/comeback copy merged live (5:50 PM)",
-    "Book site before/after story tried, then reverted at Salim’s call",
+    "Reader-app reminders/streaks + day 1\u20133/comeback copy merged live (5:50 PM)",
+    "Book site before/after story tried, then reverted at Salim\u2019s call",
     "Book site: removed Start the 22-day challenge buttons and with Coach Salim top strip (6:32 PM)",
     "ElevenLabs API key received from Salim (7:45 PM)",
     "Personal site Author title live (hero, meta, JSON-LD)",
-    "ElevenLabs Coach voice clips live in reader app"
+    "ElevenLabs Coach voice clips live in reader app",
+    "Book-site Amazon buy links set to paperback ASIN B0HN22P5F4"
    ],
    "inProgress": [
-    "Namecheap price check for achallengetomove.com (registry shows it unregistered)",
+    "Namecheap price check for achallengetomove.com (registry still shows unregistered)",
     "Book claim page on preview branch (not live yet)",
-    "Analytics wiring across sites",
-    "Point book site Amazon button at the live listing"
+    "Analytics wiring across sites"
    ],
    "blocked": [],
    "needsSalimItems": [
@@ -305,7 +306,7 @@
     "Instagram plan approved",
     "LinkedIn password reset overnight",
     "Facebook cover-photo post hidden",
-    "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017–Apr 2025, Sosa",
+    "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017\u2013Apr 2025, Sosa",
     "UNIBE degree set to BS Civil Engineering",
     "Coach LLC moved to top of Experience; approved headline restored",
     "Author photo / Wasatch banner / coachsalimheyaime.com on X, Facebook, LinkedIn"
@@ -321,14 +322,14 @@
    "department": "email",
    "avatar": "img/avatars/el-cartero.jpg",
    "status": "working",
-   "currentTask": "Overnight sweep: rent debit cleared; no Truemed or Progressive reply",
+   "currentTask": "Quiet since 6:43; no Truemed or Progressive reply",
    "needsSalim": false,
    "done": [
     "Flagged KDP publish and ISBN emails",
     "Confirmed Truemed inquiry sent",
     "Surfaced MBO Melissa reply",
     "Surfaced Edwards BGC progress email",
-    "Surfaced Beeline timesheet approval (Oct 5–11)"
+    "Surfaced Beeline timesheet approval (Oct 5\u201311)"
    ],
    "inProgress": [
     "Watching Progressive / Truemed"
@@ -437,16 +438,17 @@
    "role": "Book structure, packaging and publishing",
    "department": "publishing",
    "avatar": "img/avatars/book-publisher.jpg",
-   "status": "waiting_on_salim",
-   "currentTask": "Paperback published on Amazon 6:37 AM Oct 14; in stock within ~3 days",
-   "needsSalim": true,
+   "status": "idle",
+   "currentTask": "Paperback live on Amazon; description in 24\u201348h, Look Inside in 9\u201310 business days",
+   "needsSalim": false,
    "done": [
     "Paperback published on KDP 10/11 9:42 PM",
     "Corrected manuscript with KDP ISBN 979-8-16-163408-0 ready (80 pages)",
     "Cover confirmed fine (no printed ISBN or barcode)",
     "Confirmed no salimheyaime.com links in ISBN manuscript",
     "ACTM app icon assets delivered to Web Manager",
-    "A Challenge to Move paperback published on Amazon"
+    "A Challenge to Move paperback published on Amazon",
+    "Book-site Amazon button coordinated with Web Manager"
    ],
    "inProgress": [],
    "blocked": [],
@@ -471,7 +473,7 @@
     "Needs Kellie Namecheap username for transfer"
    ],
    "needsSalimItems": [
-    "Namecheap renewal was due Oct 13 — confirm it was paid or renew",
+    "Namecheap renewal was due Oct 13 \u2014 confirm it was paid or renew",
     "Send Kellie Namecheap username for transfer",
     "Add card to domain registrar before late October"
    ]
@@ -483,12 +485,13 @@
    "department": "online",
    "avatar": "img/avatars/analytics.svg",
    "status": "working",
-   "currentTask": "GA performance report arrived (heyaimesalim); scorecard wiring next",
+   "currentTask": "Sosa GA setup-complete mail received; scorecard wiring next",
    "needsSalim": false,
    "done": [
     "Bot created",
     "Asked Web Manager to install GA4/Search Console",
-    "September GA performance report received (Oct 13)"
+    "September GA performance report received (Oct 13)",
+    "Sosa Cleans Google Analytics setup-complete notice (Oct 14)"
    ],
    "inProgress": [
     "Site analytics setup; weekly GA email schedule still needs Salim once per property"
