@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-13T21:45:00-06:00",
+  "lastUpdated": "2026-10-14T03:55:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "9:41 PM hourly: quiet evening; book domain looks unregistered; Namecheap reply still pending",
+      "currentTask": "3:41 AM morning briefing: rent went through overnight; KDP proof deadline and credit letters today",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -91,7 +91,9 @@
         "ElevenLabs API key received by Web Manager (7:45 PM)",
         "Personal-site title set to Wellness Professional · Author · Entrepreneur",
         "Personal signature guidance: Author title, blue S logo, keep salimheyaime.com",
-        "Book domain registry check: achallengetomove.com unregistered"
+        "Book domain registry check: achallengetomove.com unregistered",
+        "Venmo rent to Kellie went through overnight (3:19 AM)",
+        "Oct 14 morning briefing sent"
       ],
       "inProgress": [
         "Monday priority stack running"
@@ -99,7 +101,6 @@
       "blocked": [],
       "needsSalimItems": [
         "Paste both personal Gmail signatures (Author title, blue S logo, salimheyaime.com)",
-        "Confirm in Venmo the rent to Kellie went through",
         "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped book items — confirm whether that was the proof)",
         "Mail four certified credit letters (planned for Oct 14; drafts at work email for print)",
         "Decide on personal-trainer liability insurance before in-person sessions",
@@ -115,19 +116,19 @@
       "department": "money",
       "avatar": "img/avatars/financial-adviser.jpg",
       "status": "working",
-      "currentTask": "Chime funded; Venmo confirm + Progressive still open",
+      "currentTask": "Rent cleared overnight; Progressive call still open",
       "needsSalim": true,
       "done": [
         "Week of Oct 12 plan",
         "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
-        "Beeline Oct 5–11 approved (Yineska Garcia)"
+        "Beeline Oct 5–11 approved (Yineska Garcia)",
+        "Venmo rent debit cleared from Chime (3:19 AM Oct 14)"
       ],
       "inProgress": [
         "Track Progressive car coverage call"
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Confirm in Venmo the rent debit to Kellie completed after the Chime top-up",
         "Call Progressive about car coverage"
       ]
     },
@@ -314,7 +315,7 @@
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
       "status": "working",
-      "currentTask": "Watching Truemed / Progressive / Venmo; no new actionable mail since 7:40 PM",
+      "currentTask": "Overnight sweep: rent debit cleared; no Truemed or Progressive reply",
       "needsSalim": false,
       "done": [
         "Flagged KDP publish and ISBN emails",
@@ -324,7 +325,7 @@
         "Surfaced Beeline timesheet approval (Oct 5–11)"
       ],
       "inProgress": [
-        "Watching Progressive / Truemed / Venmo confirm"
+        "Watching Progressive / Truemed"
       ],
       "blocked": [],
       "needsSalimItems": []
