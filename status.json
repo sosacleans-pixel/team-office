@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-13T18:55:00-06:00",
+  "lastUpdated": "2026-10-13T19:46:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "6:50 PM hourly check (Oct 13): nothing new for Salim; book site and reader-app updates logged",
+      "currentTask": "7:46 PM hourly check (Oct 13): nothing new for Salim; ElevenLabs API key received; credit letters planned for Oct 14",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -87,7 +87,8 @@
         "Amazon shipped 3 book items to Herriman",
         "Edwards HR Factum follow-up flagged",
         "Jan-Pro September statement question answered",
-        "Factum reply sent to Edwards HR (closed earlier this year, not listed)"
+        "Factum reply sent to Edwards HR (closed earlier this year, not listed)",
+        "ElevenLabs API key received by Web Manager (7:45 PM)"
       ],
       "inProgress": [
         "Monday priority stack running"
@@ -95,12 +96,11 @@
       "blocked": [],
       "needsSalimItems": [
         "Confirm in Venmo the rent to Kellie went through",
-        "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items today — confirm whether that was the proof)",
-        "Paste ElevenLabs API key (sk_…) into Web Manager secure field (Voice ID was entered by mistake)",
-        "Mail four certified credit letters (drafts already at Edwards email for print)",
+        "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items — confirm whether that was the proof)",
+        "Mail four certified credit letters (planned for Oct 14; drafts at Edwards email for print)",
         "Decide on personal-trainer liability insurance before in-person sessions (Insure Fitness Group recommended)",
         "Call Progressive about car coverage",
-        "Namecheap renewal due today (Oct 13); send Kellie Namecheap username to IT"
+        "Namecheap renewal was due Oct 13; send Kellie Namecheap username to IT"
       ]
     },
     {
@@ -133,7 +133,7 @@
       "department": "money",
       "avatar": "img/avatars/credit-repair.svg",
       "status": "waiting_on_salim",
-      "currentTask": "Letters at Edwards email for print; still need mailing",
+      "currentTask": "Letters ready; Salim plans to mail Oct 14",
       "needsSalim": true,
       "done": [
         "Four letter drafts emailed",
@@ -141,11 +141,10 @@
       ],
       "inProgress": [],
       "blocked": [
-        "Waiting on Salim to print and mail letters"
+        "Waiting on Salim to print and mail letters (planned Oct 14)"
       ],
       "needsSalimItems": [
-        "Print and mail four certified letters with return receipt",
-        "Review new Merrick Bank card collection notice from January (debt collector)"
+        "Print and mail four certified letters with return receipt (planned Oct 14)"
       ]
     },
     {
@@ -249,7 +248,7 @@
       "department": "online",
       "avatar": "img/avatars/web-manager.jpg",
       "status": "working",
-      "currentTask": "Book site polish with Salim; reader-app reminders/streaks now live",
+      "currentTask": "ElevenLabs API key in hand; wiring Coach voice clips; book site polish",
       "needsSalim": true,
       "done": [
         "Coach site live",
@@ -260,21 +259,20 @@
         "Reader-app push-ups pronunciation fix live",
         "ElevenLabs voice-clone playback with fallback live",
         "ACTM app icon live (eae76af)",
-        "Reminders/streaks preview ready (not live)",
         "Book site author photo set to back-cover headshot",
         "Book site free Try Day 1 trial added (email gate, timer, Amazon button)",
         "Reader-app reminders/streaks + day 1–3/comeback copy merged live (5:50 PM)",
         "Book site before/after story tried, then reverted at Salim’s call",
-        "Book site: removed Start the 22-day challenge buttons and with Coach Salim top strip (6:32 PM)"
+        "Book site: removed Start the 22-day challenge buttons and with Coach Salim top strip (6:32 PM)",
+        "ElevenLabs API key received from Salim (7:45 PM)"
       ],
       "inProgress": [
-        "Waiting on ElevenLabs API key (sk_) for Coach voice clips",
+        "Wiring Coach voice clips with ElevenLabs API key",
         "Analytics wiring across sites"
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Supabase one-time setup for push reminders, if still pending",
-        "Paste ElevenLabs API key (sk_…) via secure field"
+        "Supabase one-time setup for push reminders, if still pending (access token was deleted)"
       ]
     },
     {
@@ -306,7 +304,7 @@
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
       "status": "working",
-      "currentTask": "Watching Truemed / Progressive / Venmo; no new actionable mail since 1:48",
+      "currentTask": "Watching Truemed / Progressive / Venmo; no new actionable mail since 6:50 PM",
       "needsSalim": false,
       "done": [
         "Flagged KDP publish and ISBN emails",
@@ -423,7 +421,7 @@
       "department": "publishing",
       "avatar": "img/avatars/book-publisher.jpg",
       "status": "waiting_on_salim",
-      "currentTask": "KDP proof cart deadline ~8:46 AM Wed 10/14; Amazon shipped 3 book items today",
+      "currentTask": "KDP proof cart deadline ~8:46 AM Wed 10/14; Amazon book shipment in transit",
       "needsSalim": true,
       "done": [
         "Paperback published on KDP 10/11 9:42 PM",
@@ -435,7 +433,7 @@
       "inProgress": [],
       "blocked": [],
       "needsSalimItems": [
-        "Confirm KDP proof checkout (deadline ~8:46 AM Wed 10/14) and that ISBN-corrected manuscript is on KDP; Amazon shipped 3 book items arriving tomorrow — confirm if that was the proof"
+        "Confirm KDP proof checkout (deadline ~8:46 AM Wed 10/14) and that ISBN-corrected manuscript is on KDP; Amazon shipped 3 book items — confirm if that was the proof"
       ]
     },
     {
@@ -445,7 +443,7 @@
       "department": "it",
       "avatar": "img/avatars/it-department.jpg",
       "status": "waiting_on_salim",
-      "currentTask": "Namecheap renewal due today (Oct 13); still need Kellie username",
+      "currentTask": "Namecheap renewal was due Oct 13; still need Kellie username",
       "needsSalim": true,
       "done": [
         "Security review",
@@ -456,7 +454,7 @@
         "Needs Kellie Namecheap username for transfer"
       ],
       "needsSalimItems": [
-        "Namecheap renewal due today (Oct 13)",
+        "Namecheap renewal was due Oct 13 — confirm it was paid or renew",
         "Send Kellie Namecheap username for transfer",
         "Add card to domain registrar before late October"
       ]
