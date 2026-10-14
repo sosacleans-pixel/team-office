@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-13T19:46:00-06:00",
+  "lastUpdated": "2026-10-13T20:48:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "7:46 PM hourly check (Oct 13): nothing new for Salim; ElevenLabs API key received; credit letters planned for Oct 14",
+      "currentTask": "8:48 PM hourly: Author title live on personal site; claim page draft; Namecheap search pending",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -74,33 +74,37 @@
         "ElevenLabs clone path set with Web Manager",
         "TYR return label fee waived (refund pending)",
         "FitnessTrainer.com account deletion confirmed",
-        "Beeline Oct 5–11 hours approved by Yineska",
+        "Beeline Oct 5\u201311 hours approved by Yineska",
         "Edwards HR background-report request flagged",
         "USAT coach insurance answers received and flagged",
         "Oct 13 morning briefing sent",
         "Flagged Chime decline of Venmo debit",
         "ElevenLabs Starter signed up",
         "KDP proof cart-ready notice flagged",
-        "Edwards HR reply sent (7:00 AM MT, Denisse Guillén)",
-        "LinkedIn Experience published (Coach, Santosh, PT 2017–2025, Sosa; UNIBE fixed)",
+        "Edwards HR reply sent (7:00 AM MT, Denisse Guill\u00e9n)",
+        "LinkedIn Experience published (Coach, Santosh, PT 2017\u20132025, Sosa; UNIBE fixed)",
         "Credit letters forwarded to Edwards work email for print",
         "Amazon shipped 3 book items to Herriman",
         "Edwards HR Factum follow-up flagged",
         "Jan-Pro September statement question answered",
         "Factum reply sent to Edwards HR (closed earlier this year, not listed)",
-        "ElevenLabs API key received by Web Manager (7:45 PM)"
+        "ElevenLabs API key received by Web Manager (7:45 PM)",
+        "Personal-site title set to Wellness Professional \u00b7 Author \u00b7 Entrepreneur",
+        "Personal signature guidance: Author title, blue S logo, keep salimheyaime.com"
       ],
       "inProgress": [
         "Monday priority stack running"
       ],
       "blocked": [],
       "needsSalimItems": [
+        "Paste both personal Gmail signatures (Author title, blue S logo, salimheyaime.com)",
         "Confirm in Venmo the rent to Kellie went through",
-        "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped 3 book items — confirm whether that was the proof)",
-        "Mail four certified credit letters (planned for Oct 14; drafts at Edwards email for print)",
-        "Decide on personal-trainer liability insurance before in-person sessions (Insure Fitness Group recommended)",
+        "Check out KDP proof of A Challenge to Move before ~8:46 AM Wed 10/14 if not already (Amazon also shipped book items \u2014 confirm whether that was the proof)",
+        "Mail four certified credit letters (planned for Oct 14; drafts at work email for print)",
+        "Decide on personal-trainer liability insurance before in-person sessions",
         "Call Progressive about car coverage",
-        "Namecheap renewal was due Oct 13; send Kellie Namecheap username to IT"
+        "Namecheap renewal was due Oct 13; send Kellie Namecheap username to IT",
+        "Optional: review book claim-page preview when Web Manager sends it"
       ]
     },
     {
@@ -115,7 +119,7 @@
       "done": [
         "Week of Oct 12 plan",
         "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
-        "Beeline Oct 5–11 approved (Yineska Garcia)"
+        "Beeline Oct 5\u201311 approved (Yineska Garcia)"
       ],
       "inProgress": [
         "Track Progressive car coverage call"
@@ -248,7 +252,7 @@
       "department": "online",
       "avatar": "img/avatars/web-manager.jpg",
       "status": "working",
-      "currentTask": "ElevenLabs API key in hand; wiring Coach voice clips; book site polish",
+      "currentTask": "Namecheap search for book domain; claim page on preview branch; Author title live",
       "needsSalim": true,
       "done": [
         "Coach site live",
@@ -261,18 +265,23 @@
         "ACTM app icon live (eae76af)",
         "Book site author photo set to back-cover headshot",
         "Book site free Try Day 1 trial added (email gate, timer, Amazon button)",
-        "Reader-app reminders/streaks + day 1–3/comeback copy merged live (5:50 PM)",
-        "Book site before/after story tried, then reverted at Salim’s call",
+        "Reader-app reminders/streaks + day 1\u20133/comeback copy merged live (5:50 PM)",
+        "Book site before/after story tried, then reverted at Salim\u2019s call",
         "Book site: removed Start the 22-day challenge buttons and with Coach Salim top strip (6:32 PM)",
-        "ElevenLabs API key received from Salim (7:45 PM)"
+        "ElevenLabs API key received from Salim (7:45 PM)",
+        "Personal site Author title live (hero, meta, JSON-LD)",
+        "ElevenLabs Coach voice clips live in reader app"
       ],
       "inProgress": [
-        "Wiring Coach voice clips with ElevenLabs API key",
+        "Namecheap search for a challenge to move domain",
+        "Book claim page on preview branch (not live yet)",
         "Analytics wiring across sites"
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Supabase one-time setup for push reminders, if still pending (access token was deleted)"
+        "Supabase one-time setup for push reminders, if still pending",
+        "Decide on book domain after Namecheap search result",
+        "Approve claim page when previewed"
       ]
     },
     {
@@ -288,7 +297,7 @@
         "Instagram plan approved",
         "LinkedIn password reset overnight",
         "Facebook cover-photo post hidden",
-        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017–Apr 2025, Sosa",
+        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017\u2013Apr 2025, Sosa",
         "UNIBE degree set to BS Civil Engineering",
         "Coach LLC moved to top of Experience; approved headline restored",
         "Author photo / Wasatch banner / coachsalimheyaime.com on X, Facebook, LinkedIn"
@@ -304,14 +313,14 @@
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
       "status": "working",
-      "currentTask": "Watching Truemed / Progressive / Venmo; no new actionable mail since 6:50 PM",
+      "currentTask": "Watching Truemed / Progressive / Venmo; no new actionable mail since 7:40 PM",
       "needsSalim": false,
       "done": [
         "Flagged KDP publish and ISBN emails",
         "Confirmed Truemed inquiry sent",
         "Surfaced MBO Melissa reply",
         "Surfaced Edwards BGC progress email",
-        "Surfaced Beeline timesheet approval (Oct 5–11)"
+        "Surfaced Beeline timesheet approval (Oct 5\u201311)"
       ],
       "inProgress": [
         "Watching Progressive / Truemed / Venmo confirm"
@@ -421,7 +430,7 @@
       "department": "publishing",
       "avatar": "img/avatars/book-publisher.jpg",
       "status": "waiting_on_salim",
-      "currentTask": "KDP proof cart deadline ~8:46 AM Wed 10/14; Amazon book shipment in transit",
+      "currentTask": "KDP proof cart deadline ~8:46 AM Wed 10/14; claim page drafted by Web Manager (preview only)",
       "needsSalim": true,
       "done": [
         "Paperback published on KDP 10/11 9:42 PM",
@@ -433,7 +442,7 @@
       "inProgress": [],
       "blocked": [],
       "needsSalimItems": [
-        "Confirm KDP proof checkout (deadline ~8:46 AM Wed 10/14) and that ISBN-corrected manuscript is on KDP; Amazon shipped 3 book items — confirm if that was the proof"
+        "Confirm KDP proof checkout (deadline ~8:46 AM Wed 10/14) and that ISBN-corrected manuscript is on KDP; Amazon shipped 3 book items \u2014 confirm if that was the proof"
       ]
     },
     {
@@ -443,18 +452,19 @@
       "department": "it",
       "avatar": "img/avatars/it-department.jpg",
       "status": "waiting_on_salim",
-      "currentTask": "Namecheap renewal was due Oct 13; still need Kellie username",
+      "currentTask": "Signature paste text needs Author title refresh; Namecheap Kellie username still open",
       "needsSalim": true,
       "done": [
         "Security review",
-        "Hosting migration plan"
+        "Hosting migration plan",
+        "Signature steps updated to keep personal site link"
       ],
       "inProgress": [],
       "blocked": [
         "Needs Kellie Namecheap username for transfer"
       ],
       "needsSalimItems": [
-        "Namecheap renewal was due Oct 13 — confirm it was paid or renew",
+        "Namecheap renewal was due Oct 13 \u2014 confirm it was paid or renew",
         "Send Kellie Namecheap username for transfer",
         "Add card to domain registrar before late October"
       ]
