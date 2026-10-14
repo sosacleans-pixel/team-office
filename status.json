@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-14T16:43:00-06:00",
+  "lastUpdated": "2026-10-14T17:52:12-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "4:43 PM hourly: quiet since 3:49; no new mail or bot chat",
+      "currentTask": "5:50 PM hourly: Edwards BLS deck live with Wellness Assistant; padel reminded 5:43",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -74,22 +74,22 @@
         "ElevenLabs clone path set with Web Manager",
         "TYR return label fee waived (refund pending)",
         "FitnessTrainer.com account deletion confirmed",
-        "Beeline Oct 5–11 hours approved by Yineska",
+        "Beeline Oct 5\u201311 hours approved by Yineska",
         "Edwards HR background-report request flagged",
         "USAT coach insurance answers received and flagged",
         "Oct 13 morning briefing sent",
         "Flagged Chime decline of Venmo debit",
         "ElevenLabs Starter signed up",
         "KDP proof cart-ready notice flagged",
-        "Edwards HR reply sent (7:00 AM MT, Denisse Guillén)",
-        "LinkedIn Experience published (Coach, Santosh, PT 2017–2025, Sosa; UNIBE fixed)",
+        "Edwards HR reply sent (7:00 AM MT, Denisse Guill\u00e9n)",
+        "LinkedIn Experience published (Coach, Santosh, PT 2017\u20132025, Sosa; UNIBE fixed)",
         "Credit letters forwarded to Edwards work email for print",
         "Amazon shipped 3 book items to Herriman",
         "Edwards HR Factum follow-up flagged",
         "Jan-Pro September statement question answered",
         "Factum reply sent to Edwards HR (closed earlier this year, not listed)",
         "ElevenLabs API key received by Web Manager (7:45 PM)",
-        "Personal-site title set to Wellness Professional · Author · Entrepreneur",
+        "Personal-site title set to Wellness Professional \u00b7 Author \u00b7 Entrepreneur",
         "Personal signature guidance: Author title, blue S logo, keep salimheyaime.com",
         "Book domain registry check: achallengetomove.com unregistered",
         "Venmo rent to Kellie went through overnight (3:19 AM)",
@@ -108,25 +108,28 @@
         "Flagged Playtomic padel invite tonight 7 PM (Padel Park UT)",
         "Edwards HR review update received (still in progress)",
         "Flagged Chime low-balance alert (afternoon)",
-        "Noted Coach LLC Zions Business Digital Banking enrollment (device MFA password username)"
+        "Noted Coach LLC Zions Business Digital Banking enrollment (device MFA password username)",
+        "Noted Jeremiah approved Edwards BLS pilot (purchase + room booking)",
+        "Edwards Wellness Assistant building EHS/Total Wellbeing deck with BLS + TV slides",
+        "Padel RSVP reminder sent at 5:43 PM MT"
       ],
       "inProgress": [
         "Monday priority stack running"
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Note Chime balance is very low (alert afternoon); plan postage for credit letters and padel if joining",
-        "Confirm Playtomic padel tonight 7 PM at Padel Park UT (Court 6) — about 2 hours left",
+        "Confirm Playtomic padel tonight 7 PM at Padel Park UT (Court 6) \u2014 about 1 hour left (reminded 5:43 PM)",
+        "Mail four certified credit letters (Oct 14 window likely closed; rematch next business day)",
+        "Confirm whether a TY2025 tax extension was filed (Oct 15 deadline tomorrow)",
         "Decide whether personal Gmail signatures should add Engineer to match the site",
         "Go-ahead for Web Manager to publish personal-site book-link fix",
-        "Unpublish old duplicate paperback in KDP (Book Publisher couldn't load KDP)",
-        "Mail four certified credit letters (planned for Oct 14; post office window nearly closed)",
-        "Confirm whether a TY2025 tax extension was filed (Oct 15 deadline tomorrow)",
+        "Unpublish old duplicate paperback in KDP (Book Publisher could not load KDP)",
         "Paste both personal Gmail signatures (title should match site once confirmed)",
         "Decide on personal-trainer liability insurance before in-person sessions",
         "Call Progressive about car coverage",
         "Namecheap renewal was due Oct 13; send Kellie Namecheap username to IT",
-        "Optional: buy achallengetomove.com (available; Namecheap link already sent)"
+        "Optional: buy achallengetomove.com (available; Namecheap link already sent)",
+        "Note Chime balance is very low; plan postage when mailing credit letters"
       ]
     },
     {
@@ -136,12 +139,12 @@
       "department": "money",
       "avatar": "img/avatars/financial-adviser.jpg",
       "status": "working",
-      "currentTask": "Chime low-balance alert afternoon; rent cleared overnight; Progressive still open",
+      "currentTask": "Chime still low; rent cleared overnight; Progressive still open",
       "needsSalim": true,
       "done": [
         "Week of Oct 12 plan",
         "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
-        "Beeline Oct 5–11 approved (Yineska Garcia)",
+        "Beeline Oct 5\u201311 approved (Yineska Garcia)",
         "Venmo rent debit cleared from Chime (3:19 AM Oct 14)",
         "Chime low-balance alert flagged (Oct 14 afternoon)",
         "Coach LLC Zions Business Digital Banking enrolled (Oct 14 afternoon)"
@@ -161,7 +164,7 @@
       "department": "money",
       "avatar": "img/avatars/credit-repair.svg",
       "status": "waiting_on_salim",
-      "currentTask": "Letters ready; Oct 14 mail window nearly closed",
+      "currentTask": "Letters ready; Oct 14 mail window likely closed \u2014 rematch next business day",
       "needsSalim": true,
       "done": [
         "Four letter drafts emailed",
@@ -169,10 +172,10 @@
       ],
       "inProgress": [],
       "blocked": [
-        "Waiting on Salim to print and mail letters (planned Oct 14)"
+        "Waiting on Salim to print and mail letters (Oct 14 window likely closed)"
       ],
       "needsSalimItems": [
-        "Print and mail four certified letters with return receipt (planned Oct 14)"
+        "Print and mail four certified letters with return receipt (rematch next business day)"
       ]
     },
     {
@@ -296,8 +299,8 @@
         "ACTM app icon live (eae76af)",
         "Book site author photo set to back-cover headshot",
         "Book site free Try Day 1 trial added (email gate, timer, Amazon button)",
-        "Reader-app reminders/streaks + day 1–3/comeback copy merged live (5:50 PM)",
-        "Book site before/after story tried, then reverted at Salim’s call",
+        "Reader-app reminders/streaks + day 1\u20133/comeback copy merged live (5:50 PM)",
+        "Book site before/after story tried, then reverted at Salim\u2019s call",
         "Book site: removed Start the 22-day challenge buttons and with Coach Salim top strip (6:32 PM)",
         "ElevenLabs API key received from Salim (7:45 PM)",
         "Personal site Author title live (hero, meta, JSON-LD)",
@@ -330,7 +333,7 @@
         "Instagram plan approved",
         "LinkedIn password reset overnight",
         "Facebook cover-photo post hidden",
-        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017–Apr 2025, Sosa",
+        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017\u2013Apr 2025, Sosa",
         "UNIBE degree set to BS Civil Engineering",
         "Coach LLC moved to top of Experience; approved headline restored",
         "Author photo / Wasatch banner / coachsalimheyaime.com on X, Facebook, LinkedIn"
@@ -346,17 +349,18 @@
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
       "status": "idle",
-      "currentTask": "Quiet since 3:49; no Truemed/Progressive; watching padel RSVP mail",
+      "currentTask": "Quiet since 5:05; Chime MyPay promo only; padel invite still unread",
       "needsSalim": false,
       "done": [
         "Flagged KDP publish and ISBN emails",
         "Confirmed Truemed inquiry sent",
         "Surfaced MBO Melissa reply",
         "Surfaced Edwards BGC progress email",
-        "Surfaced Beeline timesheet approval (Oct 5–11)",
+        "Surfaced Beeline timesheet approval (Oct 5\u201311)",
         "Flagged Search Console coach-site impressions notice",
         "Flagged Chime low-balance alert",
-        "Noted Zions Coach LLC digital banking enrollment alerts"
+        "Noted Zions Coach LLC digital banking enrollment alerts",
+        "Flagged Edwards BLS approval forward (Jeremiah)"
       ],
       "inProgress": [
         "Watching Progressive / Truemed"
@@ -507,7 +511,7 @@
         "Needs Kellie Namecheap username for transfer"
       ],
       "needsSalimItems": [
-        "Namecheap renewal was due Oct 13 — confirm it was paid or renew",
+        "Namecheap renewal was due Oct 13 \u2014 confirm it was paid or renew",
         "Send Kellie Namecheap username for transfer",
         "Add card to domain registrar before late October"
       ]
