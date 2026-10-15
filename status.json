@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-14T21:48:00-06:00",
+  "lastUpdated": "2026-10-15T03:43:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "working",
-      "currentTask": "9:48 PM hourly: quiet since 8:48 — no new mail/commits/bot chat; index still stale",
+      "currentTask": "3:41 AM morning briefing: quiet night; tax-extension confirm and credit letters due today",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -118,7 +118,9 @@
         "Noted Coach Stripe payout arriving Oct 15",
         "Padel invite window passed (still unread after 7 PM)",
         "7:41 PM hourly run had failed; caught up at 8:48 PM",
-        "9:48 PM hourly: quiet hour (LinkedIn social only; no Truemed/Progressive/tax mail)"
+        "9:48 PM hourly: quiet hour (LinkedIn social only; no Truemed/Progressive/tax mail)",
+        "Oct 15 morning briefing sent",
+        "Overnight: ADP pay statement posted; Trainerize shows 2 missed client workouts Oct 14"
       ],
       "inProgress": [
         "Monday priority stack running"
@@ -145,7 +147,7 @@
       "department": "money",
       "avatar": "img/avatars/financial-adviser.jpg",
       "status": "working",
-      "currentTask": "Coach payout arriving Oct 15; Progressive car coverage still open; Chime still low",
+      "currentTask": "Coach Stripe payout lands today; GFiber bill today vs low Chime; Progressive still open",
       "needsSalim": true,
       "done": [
         "Week of Oct 12 plan",
@@ -235,7 +237,7 @@
       "department": "coach",
       "avatar": "img/avatars/coach-salim-hq.jpg",
       "status": "working",
-      "currentTask": "Still waiting on Truemed (inquiry Oct 11); trainer insurance rec ready",
+      "currentTask": "Truemed still quiet (inquiry Oct 11); Trainerize: Shauna and Patricia missed Oct 14 workouts",
       "needsSalim": true,
       "done": [
         "Truemed NASM eligibility email sent",
