@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-15T06:48:00-06:00",
+  "lastUpdated": "2026-10-15T07:56:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "6:46 AM hourly: quiet; tax confirm and credit letters still due today",
+      "currentTask": "7:56 AM hourly: quiet; tax confirm, credit letters and Coach payout due today",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -123,10 +123,11 @@
         "Overnight: ADP pay statement posted; Trainerize shows 2 missed client workouts Oct 14",
         "4:47 AM hourly: nothing new since morning briefing",
         "5:47 AM hourly: nothing new (promo mail only)",
-        "6:46 AM hourly: internet bill posted (autopay Oct 25); Salim sent EHS and BLS pilot decks to work email"
+        "6:46 AM hourly: internet bill posted (autopay Oct 25); Salim sent EHS and BLS pilot decks to work email",
+        "7:56 AM hourly: morning mail = EHS 4-slide + BLS pilot 2-slide decks to work email (6:28 AM), GFiber bill (autopay Oct 25), CreditWise alert; Truemed/Progressive quiet; bot transcript stores still stale"
       ],
       "inProgress": [
-        "Monday priority stack running"
+        "Thursday due-today stack: tax-extension confirm, certified credit letters, Coach Stripe payout"
       ],
       "blocked": [],
       "needsSalimItems": [
@@ -150,7 +151,7 @@
       "department": "money",
       "avatar": "img/avatars/financial-adviser.jpg",
       "status": "working",
-      "currentTask": "Coach Stripe payout due today; GFiber vs low Chime; Progressive still open",
+      "currentTask": "Coach Stripe payout landing today; GFiber bill on autopay Oct 25; Progressive still quiet",
       "needsSalim": true,
       "done": [
         "Week of Oct 12 plan",
@@ -361,7 +362,7 @@
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
       "status": "idle",
-      "currentTask": "Morning scan clean; watching Progressive/Truemed; Coach Stripe payout due today",
+      "currentTask": "7:56 AM scan: EHS/BLS decks to work email, GFiber bill, CreditWise alert; Truemed/Progressive quiet",
       "needsSalim": false,
       "done": [
         "Flagged KDP publish and ISBN emails",
@@ -375,7 +376,8 @@
         "Flagged Edwards BLS approval forward (Jeremiah)",
         "Noted Edwards archival forwards to jheyaime (BLS approval, TV slides, Push-Up Challenge, engagement screenshots)",
         "Noted Coach Stripe payout arriving Oct 15",
-        "Noted padel invite expired unread after 7 PM"
+        "Noted padel invite expired unread after 7 PM",
+        "Noted EHS 4-slide and BLS pilot 2-slide PDFs sent to Edwards work email (6:28 AM)"
       ],
       "inProgress": [
         "Watching Progressive / Truemed"
