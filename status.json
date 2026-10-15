@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-15T04:48:00-06:00",
+  "lastUpdated": "2026-10-15T05:49:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "4:47 AM hourly: quiet since morning brief; tax confirm and credit letters still due today",
+      "currentTask": "5:47 AM hourly: quiet; tax confirm and credit letters still due today",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -121,7 +121,8 @@
         "9:48 PM hourly: quiet hour (LinkedIn social only; no Truemed/Progressive/tax mail)",
         "Oct 15 morning briefing sent",
         "Overnight: ADP pay statement posted; Trainerize shows 2 missed client workouts Oct 14",
-        "4:47 AM hourly: nothing new since morning briefing"
+        "4:47 AM hourly: nothing new since morning briefing",
+        "5:47 AM hourly: nothing new (promo mail only)"
       ],
       "inProgress": [
         "Monday priority stack running"
