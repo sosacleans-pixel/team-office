@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-15T11:01:00-06:00",
+  "lastUpdated": "2026-10-15T11:43:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "10:59 AM hourly check: quiet hour, only promos and a job-match alert. Waiting on Salim for the insurance exclusion form, tax-extension confirm, and certified credit letters.",
+      "currentTask": "11:43 AM hourly: quiet since 10:59; Namecheap .com price-change FYI only. Still waiting on Salim for tax-extension confirm, certified credit letters, and The General exclusion path.",
       "needsSalim": true,
       "done": [
         "Hourly self-update routine live",
@@ -74,22 +74,22 @@
         "ElevenLabs clone path set with Web Manager",
         "TYR return label fee waived (refund pending)",
         "FitnessTrainer.com account deletion confirmed",
-        "Beeline Oct 5\u201311 hours approved by Yineska",
+        "Beeline Oct 5–11 hours approved by Yineska",
         "Edwards HR background-report request flagged",
         "USAT coach insurance answers received and flagged",
         "Oct 13 morning briefing sent",
         "Flagged Chime decline of Venmo debit",
         "ElevenLabs Starter signed up",
         "KDP proof cart-ready notice flagged",
-        "Edwards HR reply sent (7:00 AM MT, Denisse Guill\u00e9n)",
-        "LinkedIn Experience published (Coach, Santosh, PT 2017\u20132025, Sosa; UNIBE fixed)",
+        "Edwards HR reply sent (7:00 AM MT, Denisse Guillén)",
+        "LinkedIn Experience published (Coach, Santosh, PT 2017–2025, Sosa; UNIBE fixed)",
         "Credit letters forwarded to Edwards work email for print",
         "Amazon shipped 3 book items to Herriman",
         "Edwards HR Factum follow-up flagged",
         "Jan-Pro September statement question answered",
         "Factum reply sent to Edwards HR (closed earlier this year, not listed)",
         "ElevenLabs API key received by Web Manager (7:45 PM)",
-        "Personal-site title set to Wellness Professional \u00b7 Author \u00b7 Entrepreneur",
+        "Personal-site title set to Wellness Professional · Author · Entrepreneur",
         "Personal signature guidance: Author title, blue S logo, keep salimheyaime.com",
         "Book domain registry check: achallengetomove.com unregistered",
         "Venmo rent to Kellie went through overnight (3:19 AM)",
@@ -112,7 +112,7 @@
         "Noted Jeremiah approved Edwards BLS pilot (purchase + room booking)",
         "Edwards Wellness Assistant building EHS/Total Wellbeing deck with BLS + TV slides",
         "Padel RSVP reminder sent at 5:43 PM MT",
-        "Noted Salim archived Edwards BLS approval, TV slides, Push-Up Challenge results, and engagement screenshots to jheyaime (5:31\u20136:30 PM)",
+        "Noted Salim archived Edwards BLS approval, TV slides, Push-Up Challenge results, and engagement screenshots to jheyaime (5:31–6:30 PM)",
         "6:42 PM hourly check: no Truemed/Progressive; no bot chat since 5:50",
         "8:48 PM hourly: noted EHS/Total Wellbeing Final deck emailed to Edwards work (9-slide PDF)",
         "Noted Coach Stripe payout arriving Oct 15",
@@ -126,7 +126,10 @@
         "6:46 AM hourly: internet bill posted (autopay Oct 25); Salim sent EHS and BLS pilot decks to work email",
         "7:56 AM hourly: morning mail = EHS 4-slide + BLS pilot 2-slide decks to work email (6:28 AM), GFiber bill (autopay Oct 25), CreditWise alert; Truemed/Progressive quiet; bot transcript stores still stale",
         "7:56 AM hourly: flagged The General reply (M. Beaver) needing Salim",
-        "Noted Salim emailed NIOSH Total Worker Health decks to Edwards work (~7:52\u20137:56 AM)"
+        "Noted Salim emailed NIOSH Total Worker Health decks to Edwards work (~7:52–7:56 AM)",
+        "10:07 AM hourly: quiet",
+        "10:59 AM hourly: quiet (promos + job-match alert); due-today stack still open",
+        "11:43 AM hourly: Namecheap .com registry price-change notice to personal Gmail (~11:39 AM); no Stripe deposit confirm yet; Truemed/Progressive/tax quiet; bot transcripts still stale"
       ],
       "inProgress": [
         "Thursday due-today stack: tax-extension confirm, certified credit letters, Coach Stripe payout"
@@ -154,16 +157,17 @@
       "department": "money",
       "avatar": "img/avatars/financial-adviser.jpg",
       "status": "working",
-      "currentTask": "Coach Stripe payout due today; The General partial reinstate offer on table; Progressive still open",
+      "currentTask": "Coach Stripe payout still expected today (no deposit email yet); The General partial reinstate offer on table; Progressive still open",
       "needsSalim": true,
       "done": [
         "Week of Oct 12 plan",
         "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
-        "Beeline Oct 5\u201311 approved (Yineska Garcia)",
+        "Beeline Oct 5–11 approved (Yineska Garcia)",
         "Venmo rent debit cleared from Chime (3:19 AM Oct 14)",
         "Chime low-balance alert flagged (Oct 14 afternoon)",
         "Coach LLC Zions Business Digital Banking enrolled (Oct 14 afternoon)",
-        "Noted Coach Stripe payout arriving Oct 15"
+        "Noted Coach Stripe payout arriving Oct 15",
+        "11:43 AM: Stripe payout not confirmed deposited yet"
       ],
       "inProgress": [
         "Track Progressive car coverage call"
@@ -181,7 +185,7 @@
       "department": "money",
       "avatar": "img/avatars/credit-repair.svg",
       "status": "waiting_on_salim",
-      "currentTask": "Letters ready; mail window is today (Thu Oct 15)",
+      "currentTask": "Letters ready; mail window is today (Thu Oct 15) — afternoon, still unmailed",
       "needsSalim": true,
       "done": [
         "Four letter drafts emailed",
@@ -202,7 +206,7 @@
       "department": "legal",
       "avatar": "img/avatars/attorney.jpg",
       "status": "waiting_on_salim",
-      "currentTask": "The General replied 7:26 AM; Salim decision needed; TY2025 extension still due today",
+      "currentTask": "The General reply still needs Salim path; TY2025 extension still due today (end of day approaching)",
       "needsSalim": true,
       "done": [
         "Company wellness incentives memo",
@@ -318,8 +322,8 @@
         "ACTM app icon live (eae76af)",
         "Book site author photo set to back-cover headshot",
         "Book site free Try Day 1 trial added (email gate, timer, Amazon button)",
-        "Reader-app reminders/streaks + day 1\u20133/comeback copy merged live (5:50 PM)",
-        "Book site before/after story tried, then reverted at Salim\u2019s call",
+        "Reader-app reminders/streaks + day 1–3/comeback copy merged live (5:50 PM)",
+        "Book site before/after story tried, then reverted at Salim’s call",
         "Book site: removed Start the 22-day challenge buttons and with Coach Salim top strip (6:32 PM)",
         "ElevenLabs API key received from Salim (7:45 PM)",
         "Personal site Author title live (hero, meta, JSON-LD)",
@@ -352,7 +356,7 @@
         "Instagram plan approved",
         "LinkedIn password reset overnight",
         "Facebook cover-photo post hidden",
-        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017\u2013Apr 2025, Sosa",
+        "LinkedIn Experience live: Coach Salim Heyaime LLC, Santosh, PT 2017–Apr 2025, Sosa",
         "UNIBE degree set to BS Civil Engineering",
         "Coach LLC moved to top of Experience; approved headline restored",
         "Author photo / Wasatch banner / coachsalimheyaime.com on X, Facebook, LinkedIn"
@@ -368,14 +372,14 @@
       "department": "email",
       "avatar": "img/avatars/el-cartero.jpg",
       "status": "idle",
-      "currentTask": "Surfaced The General reply; watching Progressive/Truemed; Coach Stripe payout due today",
+      "currentTask": "Noted Namecheap price-change FYI; still watching Stripe deposit, Progressive, Truemed",
       "needsSalim": false,
       "done": [
         "Flagged KDP publish and ISBN emails",
         "Confirmed Truemed inquiry sent",
         "Surfaced MBO Melissa reply",
         "Surfaced Edwards BGC progress email",
-        "Surfaced Beeline timesheet approval (Oct 5\u201311)",
+        "Surfaced Beeline timesheet approval (Oct 5–11)",
         "Flagged Search Console coach-site impressions notice",
         "Flagged Chime low-balance alert",
         "Noted Zions Coach LLC digital banking enrollment alerts",
@@ -384,10 +388,11 @@
         "Noted Coach Stripe payout arriving Oct 15",
         "Noted padel invite expired unread after 7 PM",
         "Noted EHS 4-slide and BLS pilot 2-slide PDFs sent to Edwards work email (6:28 AM)",
-        "Surfaced The General dispute reply (Oct 15 ~7:26 AM)"
+        "Surfaced The General dispute reply (Oct 15 ~7:26 AM)",
+        "Noted Namecheap .com price-change notice (~11:39 AM)"
       ],
       "inProgress": [
-        "Watching Progressive / Truemed"
+        "Watching Progressive / Truemed / Stripe deposit"
       ],
       "blocked": [],
       "needsSalimItems": []
@@ -523,19 +528,20 @@
       "department": "it",
       "avatar": "img/avatars/it-department.jpg",
       "status": "waiting_on_salim",
-      "currentTask": "Signatures may need Engineer if Salim wants them to match the site; Namecheap Kellie username still open",
+      "currentTask": "Namecheap .com price-change notice arrived; Kellie username and renewal confirm still open; signatures Engineer undecided",
       "needsSalim": true,
       "done": [
         "Security review",
         "Hosting migration plan",
-        "Signature steps updated to keep personal site link"
+        "Signature steps updated to keep personal site link",
+        "Noted Namecheap .com registry price-change email (Oct 15 late morning)"
       ],
       "inProgress": [],
       "blocked": [
         "Needs Kellie Namecheap username for transfer"
       ],
       "needsSalimItems": [
-        "Namecheap renewal was due Oct 13 \u2014 confirm it was paid or renew",
+        "Namecheap renewal was due Oct 13 — confirm it was paid or renew",
         "Send Kellie Namecheap username for transfer",
         "Add card to domain registrar before late October"
       ]
