@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-16T07:43:00-06:00",
+  "lastUpdated": "2026-10-16T08:46:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,91 +62,24 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "7:43 AM hourly: quiet; no new actionable mail; Stripe deposit still unconfirmed; Tax Commission day stack already flagged.",
+      "currentTask": "8:46 AM hourly: Markosian payment receipt logged; Tax Commission visit still open; Stripe deposit still pending",
       "needsSalim": true,
       "done": [
+        "Markosian Auto payment receipt received today",
         "Hourly self-update routine live",
         "Overnight inbox sweep",
         "KDP ISBN fix file ready notice sent",
         "MBO pay reply flagged",
         "Edwards BGC update flagged",
         "Reader-app push-ups voice fix coordinated",
-        "ElevenLabs clone path set with Web Manager",
-        "TYR return label fee waived (refund pending)",
-        "FitnessTrainer.com account deletion confirmed",
-        "Beeline Oct 5–11 hours approved by Yineska",
-        "Edwards HR background-report request flagged",
-        "USAT coach insurance answers received and flagged",
-        "Oct 13 morning briefing sent",
-        "Flagged Chime decline of Venmo debit",
-        "ElevenLabs Starter signed up",
-        "KDP proof cart-ready notice flagged",
-        "Edwards HR reply sent (7:00 AM MT, Denisse Guillén)",
-        "LinkedIn Experience published (Coach, Santosh, PT 2017–2025, Sosa; UNIBE fixed)",
-        "Credit letters forwarded to Edwards work email for print",
-        "Amazon shipped 3 book items to Herriman",
-        "Edwards HR Factum follow-up flagged",
-        "Jan-Pro September statement question answered",
-        "Factum reply sent to Edwards HR (closed earlier this year, not listed)",
-        "ElevenLabs API key received by Web Manager (7:45 PM)",
-        "Personal-site title set to Wellness Professional · Author · Entrepreneur",
-        "Personal signature guidance: Author title, blue S logo, keep salimheyaime.com",
-        "Book domain registry check: achallengetomove.com unregistered",
-        "Venmo rent to Kellie went through overnight (3:19 AM)",
-        "Oct 14 morning briefing sent",
-        "A Challenge to Move paperback published on Amazon (6:37 AM)",
-        "Compliance register built by Attorney (64 items)",
-        "Book-site Amazon button pointed at live paperback listing",
-        "Corrected: Web Manager answered Namecheap Oct 13 (domain available; no purchase)",
-        "Claim page dropped by Salim (not merged)",
-        "The General dispute follow-up sent (Oct 14 morning)",
-        "KDP proof copy ordered (arriving Friday)",
-        "Flagged Engineer title live on personal site for confirm",
-        "Bot message index readable again (10:44 AM)",
-        "Corrected: Engineer title was requested by Salim to Web Manager (8:46 AM)",
-        "Search Console collecting impressions for coachsalimheyaime.com (since Oct 12)",
-        "Flagged Playtomic padel invite tonight 7 PM (Padel Park UT)",
-        "Edwards HR review update received (still in progress)",
-        "Flagged Chime low-balance alert (afternoon)",
-        "Noted Coach LLC Zions Business Digital Banking enrollment (device MFA password username)",
-        "Noted Jeremiah approved Edwards BLS pilot (purchase + room booking)",
-        "Edwards Wellness Assistant building EHS/Total Wellbeing deck with BLS + TV slides",
-        "Padel RSVP reminder sent at 5:43 PM MT",
-        "Noted Salim archived Edwards BLS approval, TV slides, Push-Up Challenge results, and engagement screenshots to jheyaime (5:31–6:30 PM)",
-        "6:42 PM hourly check: no Truemed/Progressive; no bot chat since 5:50",
-        "8:48 PM hourly: noted EHS/Total Wellbeing Final deck emailed to Edwards work (9-slide PDF)",
-        "Noted Coach Stripe payout arriving Oct 15",
-        "Padel invite window passed (still unread after 7 PM)",
-        "7:41 PM hourly run had failed; caught up at 8:48 PM",
-        "9:48 PM hourly: quiet hour (LinkedIn social only; no Truemed/Progressive/tax mail)",
-        "Oct 15 morning briefing sent",
-        "Overnight: ADP pay statement posted; Trainerize shows 2 missed client workouts Oct 14",
-        "4:47 AM hourly: nothing new since morning briefing",
-        "5:47 AM hourly: nothing new (promo mail only)",
-        "6:46 AM hourly: internet bill posted (autopay Oct 25); Salim sent EHS and BLS pilot decks to work email",
-        "7:56 AM hourly: morning mail = EHS 4-slide + BLS pilot 2-slide decks to work email (6:28 AM), GFiber bill (autopay Oct 25), CreditWise alert; Truemed/Progressive quiet; bot transcript stores still stale",
-        "7:56 AM hourly: flagged The General reply (M. Beaver) needing Salim",
-        "Noted Salim emailed NIOSH Total Worker Health decks to Edwards work (~7:52–7:56 AM)",
-        "10:07 AM hourly: quiet",
-        "10:59 AM hourly: quiet (promos + job-match alert); due-today stack still open",
-        "11:43 AM hourly: Namecheap .com registry price-change notice to personal Gmail (~11:39 AM); no Stripe deposit confirm yet; Truemed/Progressive/tax quiet; bot transcripts still stale",
-        "12:43 PM hourly: tax-extension afternoon nudge sent; collection-agency outreach noted (validation letter path)",
-        "Noted TYR return received and processing (~1:10 PM)",
-        "2:45 PM hourly: quiet (promos/FYI only; no Stripe deposit confirm; Truemed/Progressive/tax quiet; no new bot chat)",
-        "Oct 16 morning briefing sent",
-        "4:45 AM hourly: quiet since morning briefing",
-        "5:49 AM hourly: quiet (promo mail only)",
-        "Noted KDP account bank/address update email (Coach inbox, aligns with Coach LLC Zions setup)",
-        "Noted early-morning Venmo boxing payment, Credit Builder transfer, and Prime Store Card payment scheduled",
-        "Noted Web Manager companion-app promo creatives this morning",
-        "Cleared Engineer signature decision (Salim already matched signatures to site title)",
-        "7:43 AM hourly: quiet (JetBlue job alert only); Stripe deposit still unconfirmed; bot transcripts still stale"
+        "ElevenLabs clone path set with Web Manager"
       ],
       "inProgress": [
         "Hourly team self-update"
       ],
       "blocked": [],
       "needsSalimItems": [
+        "Tax Commission visit today with Sosa papers",
         "Decide next step on The General reply (driver exclusion signatures + partial reinstate offer)",
         "Confirm whether a TY2025 tax extension was filed (due Thu Oct 15)",
         "Mail four certified credit letters (Oct 14 window closed; rematch next business day)",
@@ -155,8 +88,7 @@
         "Decide on personal-trainer liability insurance before in-person sessions",
         "Call Progressive about car coverage",
         "Namecheap renewal was due Oct 13; send Kellie Namecheap username to IT",
-        "Optional: buy achallengetomove.com (available; Namecheap link already sent)",
-        "Tax Commission visit today with Sosa papers (and Markosian payment)"
+        "Optional: buy achallengetomove.com (available; Namecheap link already sent)"
       ]
     },
     {
@@ -166,25 +98,21 @@
       "department": "money",
       "avatar": "img/avatars/financial-adviser.jpg",
       "status": "working",
-      "currentTask": "Watching Coach Stripe payouts due today; Markosian payment due today; KDP royalties route to Coach LLC Zions",
+      "currentTask": "Watching Coach Stripe payout expected today; Markosian payment receipt logged",
       "needsSalim": true,
       "done": [
+        "Markosian Auto payment receipt received today",
         "Week of Oct 12 plan",
         "MBO missing-pay reply received (paid Fri 10/16 for late timesheet)",
         "Beeline Oct 5–11 approved (Yineska Garcia)",
         "Venmo rent debit cleared from Chime (3:19 AM Oct 14)",
         "Chime low-balance alert flagged (Oct 14 afternoon)",
         "Coach LLC Zions Business Digital Banking enrolled (Oct 14 afternoon)",
-        "Noted Coach Stripe payout arriving Oct 15",
-        "11:43 AM: Stripe payout not confirmed deposited yet",
-        "2:45 PM: Stripe payout not confirmed deposited yet",
-        "Noted KDP royalties set to Coach LLC Zions Business account",
-        "Noted early Venmo boxing payment and Credit Builder / Prime Store Card activity",
-        "6:42 AM: Stripe deposit still unconfirmed in mail",
-        "7:43 AM: Stripe deposit still unconfirmed in mail"
+        "Noted Coach Stripe payout arriving Oct 15"
       ],
       "inProgress": [
-        "Track Progressive car coverage call"
+        "Track Progressive car coverage call",
+        "Watch Stripe deposit confirmation"
       ],
       "blocked": [],
       "needsSalimItems": [
@@ -245,17 +173,18 @@
       "role": "Operations owner for the cleaning company",
       "department": "sosa",
       "avatar": "img/avatars/sosa-cleans-manager.jpg",
-      "status": "working",
-      "currentTask": "Tax Commission visit and Markosian payment due today",
+      "status": "waiting_on_salim",
+      "currentTask": "Tax Commission visit still due today; Markosian payment receipt logged",
       "needsSalim": true,
-      "done": [],
+      "done": [
+        "Markosian Auto payment receipt received today"
+      ],
       "inProgress": [
-        "Oct 16 visit checklist"
+        "Oct 16 Tax Commission visit checklist"
       ],
       "blocked": [],
       "needsSalimItems": [
         "Tax Commission visit today with Sosa papers",
-        "Markosian payment due today",
         "Resubmit reinstatement work order by Oct 30"
       ]
     },
