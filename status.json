@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-16T08:46:00-06:00",
+  "lastUpdated": "2026-10-16T09:48:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "8:46 AM hourly: Markosian payment receipt logged; Tax Commission visit still open; Stripe deposit still pending",
+      "currentTask": "9:48 AM hourly: quiet for decisions; Stripe deposit still pending; Tax Commission visit still open",
       "needsSalim": true,
       "done": [
         "Markosian Auto payment receipt received today",
@@ -341,7 +341,11 @@
         "Noted KDP account bank/address update (Coach inbox ~6:17 AM)",
         "Noted early Venmo boxing payment, Credit Builder move, Prime Store Card payment scheduled",
         "Noted Web Manager companion-app creative screenshots this morning",
-        "7:43 AM: JetBlue job alert (FYI); no Stripe deposit confirm yet"
+        "7:43 AM: JetBlue job alert (FYI); no Stripe deposit confirm yet",
+        "Noted Capital One CreditWise dark-web alert (jheyaime; review in CreditWise)",
+        "Noted CNE DR bid invite CNE-DAF-CM-2026-0062 to jheyaime (Tramerias already replied they will participate)",
+        "Noted Google Account data shared with cursor.sh (heyaimesalim sign-in)",
+        "9:48 AM: no Stripe deposit confirm yet; calendars empty today"
       ],
       "inProgress": [
         "Watching Progressive / Truemed / Stripe deposit"
