@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-16T21:47:00-06:00",
+  "lastUpdated": "2026-10-17T03:45:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "9:45 PM hourly (last of day): quiet for decisions; evening mail was social/FYI only",
+      "currentTask": "3:43 AM morning run: quiet night; morning briefing sent",
       "needsSalim": true,
       "done": [
         "Edwards weekly timesheet approved",
@@ -81,7 +81,7 @@
       "blocked": [],
       "needsSalimItems": [
         "Review delivered KDP proof copy and give Book Publisher a go or fixes",
-        "Tax Commission visit with Sosa papers (next business day if not done today)",
+        "Tax Commission visit with Sosa papers (offices closed weekends; plan Monday Oct 19)",
         "Decide next step on The General reply (driver exclusion signatures + partial reinstate offer)",
         "Confirm whether a TY2025 tax extension was filed (due Thu Oct 15)",
         "Mail four certified credit letters (Oct 14 window closed; rematch next business day)",
