@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-17T17:40:00-06:00",
+  "lastUpdated": "2026-10-18T03:45:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,25 +62,26 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "5:41 PM evening check-in: approvals list batched for Salim",
+      "currentTask": "3:41 AM morning briefing sent; quiet night",
       "needsSalim": true,
       "done": [
+        "Inbox bots merged into El Cartero",
+        "Task board refreshed (Oct 18 morning)",
         "GitHub reconnected in Cursor",
         "achallengetomove.com registered",
         "Santosh form thank-you page fixed",
         "Google Workspace canceled",
-        "Task board refreshed",
         "Edwards weekly timesheet approved",
         "Markosian Auto payment receipt received today",
         "Hourly self-update routine live",
         "Overnight inbox sweep"
       ],
       "inProgress": [
-        "2x daily team check-ins",
-        "Merge inbox bots into El Cartero"
+        "2x daily team check-ins"
       ],
       "blocked": [],
       "needsSalimItems": [
+        "Update the Google One storage payment method before service is interrupted",
         "Review the KDP proof copy and give Book Publisher a go or fixes",
         "Approve book site banner and hero copy v3",
         "Give a go or no on the online wellness shop plan",
