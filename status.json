@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-18T10:30:00-06:00",
+  "lastUpdated": "2026-10-18T17:45:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "Midday sync: board and status caught up to Oct 18 decisions",
+      "currentTask": "Evening check-in: board caught up; Monday stack ready",
       "needsSalim": true,
       "done": [
         "Inbox bots merged into El Cartero",
@@ -80,7 +80,8 @@
         "2x daily team check-ins"
       ],
       "inProgress": [
-        "Santosh GBP owner invite (sent; invite not in the Santosh inbox yet)",
+        "Santosh GBP owner invite (invite not in the Santosh inbox yet)",
+        "Vercel takedown of the old book page copy",
         "2x daily team check-ins"
       ],
       "blocked": [],
@@ -90,7 +91,8 @@
         "Get The General driver exclusion form signed (Monday)",
         "Utah Tax Commission visit Mon Oct 19 (Sosa papers; ask about TY2025 extension)",
         "Mail the four certified credit dispute letters (Monday)",
-        "Accept Santosh GBP owner invite when it arrives (or resend if stuck)"
+        "Accept Santosh GBP owner invite when it arrives (or resend if stuck)",
+        "Decide on a Drive share request for a bank statement (Sosa Drive)"
       ]
     },
     {
