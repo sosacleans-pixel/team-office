@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-19T03:50:00-06:00",
+  "lastUpdated": "2026-10-19T17:50:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "Morning briefing sent; Monday errands lined up",
+      "currentTask": "Evening check-in done; approvals batched for Salim",
       "needsSalim": true,
       "done": [
         "Inbox bots merged into El Cartero",
@@ -82,7 +82,8 @@
       "inProgress": [
         "Santosh GBP owner invite (invite not in the Santosh inbox yet)",
         "Vercel takedown of the old book page copy (needs a copyright form)",
-        "2x daily team check-ins"
+        "2x daily team check-ins",
+        "Edwards background check wrapping up (final instructions coming)"
       ],
       "blocked": [],
       "needsSalimItems": [
@@ -95,7 +96,8 @@
         "Accept Santosh GBP owner invite when it arrives (or resend if stuck)",
         "Decide on a Drive share request for a bank statement (Sosa Drive)",
         "Submit the copyright form for the old book page copy",
-        "Create the Stripe link for the X-mas challenge (Monday)"
+        "Create the Stripe link for the X-mas challenge (Monday)",
+        "Decide on a Venmo request for a move-out clean"
       ]
     },
     {
@@ -165,7 +167,8 @@
         "The General written reply received Oct 15 morning (M. Beaver)"
       ],
       "inProgress": [
-        "Awaiting Salim direction on The General reply (exclusion form + reinstate path)"
+        "Awaiting Salim direction on The General reply (exclusion form + reinstate path)",
+        "Preparing the filing to move the Santosh Retreats name under the coaching LLC"
       ],
       "blocked": [],
       "needsSalimItems": [
@@ -210,7 +213,8 @@
         "USAT/Fairly Group coverage answers received (GL only,M/M, triathlon disciplines, individual only)"
       ],
       "inProgress": [
-        "Waiting on Truemed reply"
+        "Waiting on Truemed reply",
+        "Remove a former collaborator from Trainerize"
       ],
       "blocked": [],
       "needsSalimItems": [
