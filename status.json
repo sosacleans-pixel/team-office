@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-19T17:50:00-06:00",
+  "lastUpdated": "2026-10-20T03:45:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "Evening check-in done; approvals batched for Salim",
+      "currentTask": "Morning briefing sent; Monday errands carried to today",
       "needsSalim": true,
       "done": [
         "Inbox bots merged into El Cartero",
@@ -90,14 +90,15 @@
         "Update the card on the Cursor subscription (payment failed)",
         "Update the Google One storage payment method before service is interrupted",
         "Review the KDP proof copy and give Book Publisher a go or fixes",
-        "Get The General driver exclusion form signed (Monday)",
-        "Utah Tax Commission visit Mon Oct 19 (Sosa papers; ask about TY2025 extension)",
-        "Mail the four certified credit dispute letters (Monday)",
+        "Get The General driver exclusion form signed (carried from Monday)",
+        "Utah Tax Commission visit (carried from Monday) (Sosa papers; ask about TY2025 extension)",
+        "Mail the four certified credit dispute letters (carried from Monday)",
         "Accept Santosh GBP owner invite when it arrives (or resend if stuck)",
         "Decide on a Drive share request for a bank statement (Sosa Drive)",
         "Submit the copyright form for the old book page copy",
-        "Create the Stripe link for the X-mas challenge (Monday)",
-        "Decide on a Venmo request for a move-out clean"
+        "Create the Stripe link for the X-mas challenge (carried from Monday)",
+        "Decide on a Venmo request for a move-out clean",
+        "Activate the new Santosh Retreats site form (activation email in the Santosh inbox)"
       ]
     },
     {
