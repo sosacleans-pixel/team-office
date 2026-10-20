@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-20T03:45:00-06:00",
+  "lastUpdated": "2026-10-20T17:45:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,7 +62,7 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "Morning briefing sent; Monday errands carried to today",
+      "currentTask": "Evening check-in: Edwards HR needs agency employment details",
       "needsSalim": true,
       "done": [
         "Inbox bots merged into El Cartero",
@@ -82,11 +82,11 @@
       "inProgress": [
         "Santosh GBP owner invite (invite not in the Santosh inbox yet)",
         "Vercel takedown of the old book page copy (needs a copyright form)",
-        "2x daily team check-ins",
-        "Edwards background check wrapping up (final instructions coming)"
+        "2x daily team check-ins"
       ],
       "blocked": [],
       "needsSalimItems": [
+        "Send Edwards HR the staffing agency details for the background check",
         "Update the card on the Cursor subscription (payment failed)",
         "Update the Google One storage payment method before service is interrupted",
         "Review the KDP proof copy and give Book Publisher a go or fixes",
@@ -97,8 +97,7 @@
         "Decide on a Drive share request for a bank statement (Sosa Drive)",
         "Submit the copyright form for the old book page copy",
         "Create the Stripe link for the X-mas challenge (carried from Monday)",
-        "Decide on a Venmo request for a move-out clean",
-        "Activate the new Santosh Retreats site form (activation email in the Santosh inbox)"
+        "Decide on a Venmo request for a move-out clean"
       ]
     },
     {
