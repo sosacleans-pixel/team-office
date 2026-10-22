@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-22T03:45:00-06:00",
+  "lastUpdated": "2026-10-22T17:40:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,10 +62,10 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "Morning briefing Oct 22: Edwards agency details sent; waiting on HR. New: Trainerize card declined",
+      "currentTask": "Evening check-in Oct 22: Edwards background check cleared, start Mon Oct 26; onboarding tasks need Salim",
       "needsSalim": true,
       "done": [
-        "Edwards HR got the staffing-agency details (Oct 21 6:46 PM)",
+        "Edwards background check cleared (Oct 22); start date Mon Oct 26",
         "Inbox bots merged into El Cartero",
         "GitHub reconnected in Cursor",
         "achallengetomove.com registered",
@@ -87,6 +87,7 @@
       ],
       "blocked": [],
       "needsSalimItems": [
+        "Finish Edwards new-hire onboarding in Workday and the I-9 (before Mon Oct 26)",
         "Update the Google One storage payment method before service is interrupted (deadline Fri Oct 24)",
         "Update the card on the Cursor subscription (payment failed)",
         "Update the card on Trainerize (invoice declined Oct 19) so client app access isn't lost",
