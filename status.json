@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-23T03:45:00-06:00",
+  "lastUpdated": "2026-10-23T17:45:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,9 +62,11 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "Morning briefing Oct 23: Edwards onboarding before Mon Oct 26 start; Google One payment due Sat Oct 24",
+      "currentTask": "Evening check-in Oct 23: Workday onboarding done; Edwards I-9 still open before Mon Oct 26 start; Google One payment due Sat Oct 24",
       "needsSalim": true,
       "done": [
+        "Edwards Workday onboarding completed (Oct 23)",
+        "Venmo move-out clean request paid (Oct 23)",
         "Edwards background check cleared (Oct 22); start date Mon Oct 26",
         "Inbox bots merged into El Cartero",
         "GitHub reconnected in Cursor",
@@ -87,8 +89,8 @@
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Finish Edwards new-hire onboarding in Workday and the I-9 (before Mon Oct 26)",
-        "Update the Google One storage payment method before service is interrupted (deadline Fri Oct 24)",
+        "Complete the Edwards I-9 (Section 1 online plus Section 2 appointment) within 72 hours of the Mon Oct 26 start",
+        "Update the Google One storage payment method before service is interrupted (deadline Sat Oct 24)",
         "Update the card on the Cursor subscription (payment failed)",
         "Update the card on Trainerize (invoice declined Oct 19) so client app access isn't lost",
         "Review the KDP proof copy and give Book Publisher a go or fixes",
@@ -99,7 +101,6 @@
         "Decide on a Drive share request for a bank statement (Sosa Drive)",
         "Submit the copyright form for the old book page copy",
         "Create the Stripe link for the X-mas challenge (carried from Monday)",
-        "Decide on a Venmo request for a move-out clean",
         "Confirm Santosh Retreats business details in Google Business Profile"
       ]
     },
