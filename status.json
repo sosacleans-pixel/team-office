@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-10-23T17:45:00-06:00",
+  "lastUpdated": "2026-10-24T03:50:00-06:00",
   "updatedBy": "Alfred",
   "departments": [
     {
@@ -62,9 +62,11 @@
       "department": "alfred",
       "avatar": "img/avatars/alfred.jpg",
       "status": "idle",
-      "currentTask": "Evening check-in Oct 23: Workday onboarding done; Edwards I-9 still open before Mon Oct 26 start; Google One payment due Sat Oct 24",
+      "currentTask": "Morning briefing Oct 24: Google One paid; I-9 Section 1 done, Section 2 appointment today 1:50 PM in Draper",
       "needsSalim": true,
       "done": [
+        "Google One storage payment updated (Oct 23)",
+        "Edwards I-9 Section 1 completed (Oct 23)",
         "Edwards Workday onboarding completed (Oct 23)",
         "Venmo move-out clean request paid (Oct 23)",
         "Edwards background check cleared (Oct 22); start date Mon Oct 26",
@@ -89,8 +91,7 @@
       ],
       "blocked": [],
       "needsSalimItems": [
-        "Complete the Edwards I-9 (Section 1 online plus Section 2 appointment) within 72 hours of the Mon Oct 26 start",
-        "Update the Google One storage payment method before service is interrupted (deadline Sat Oct 24)",
+        "Edwards I-9 Section 2 appointment today Sat Oct 24, 1:50 PM, PostNet Draper (bring unexpired original ID)",
         "Update the card on the Cursor subscription (payment failed)",
         "Update the card on Trainerize (invoice declined Oct 19) so client app access isn't lost",
         "Review the KDP proof copy and give Book Publisher a go or fixes",
@@ -145,7 +146,9 @@
         "Four letter drafts emailed",
         "Forwarded to Edwards work email for print (7:19 AM MT)"
       ],
-      "inProgress": [],
+      "inProgress": [
+        "Watching new Credit Karma collections-balance alert (Oct 24)"
+      ],
       "blocked": [
         "Waiting on Salim to mail letters Monday"
       ],
